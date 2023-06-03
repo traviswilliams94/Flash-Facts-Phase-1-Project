@@ -1,1 +1,105 @@
 <!-- HTML here -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FACT FLASH!</title>
+    <link rel="stylesheet" href="index.css" />
+    <script src="index.js"></script>
+</head>
+<body>
+    <div class="pageheader">
+        <h1 class="title">Fact Flash!</h1>
+    </div>
+    
+    <button class="pagebutton" id="addquestion">Add a new question!</button>
+
+    <div id="formcontainer">
+        <form id="newtoyform">
+            <h2>Submit your Question!</h2>
+                <label for="category">Category: </label>
+                <select id="categoryselect">
+                    <option value="History">History</option>
+                    <option value="Science">Science</option>
+                    <option value="Art">Art</option>
+                    <option value="Entertainment">Entertainment</option>
+                    <option value="Art">Art</option>
+                </select>
+            <br />
+                <label for="question">Question: </label>
+                <input
+                type="text"
+                name="Question: "
+                value=""
+                placeholder="Type Your Question"
+                class="input-text"
+                />
+            <br />
+                <label for="response1">Option 1: </label>
+                <input
+                type="text"
+                name="Response 1: "
+                value=""
+                placeholder="Add Response Option"
+                class="input-text"
+                />
+            <br />
+                <label for="response2">Option 2: </label>
+                <input
+                type="text"
+                name="Response 2: "
+                value=""
+                placeholder="Add Response Option"
+                class="input-text"
+                />
+            <br />
+                <label for="response3">Option 3: </label>
+                <input
+                type="text"
+                name="Response 3: "
+                value=""
+                placeholder="Add Response Option"
+                class="input-text"
+                />
+            <br />
+               <label for="response4">Option 4: </label>
+                <input
+                type="text"
+                name="Response 4: "
+                value=""
+                placeholder="Add Response Option"
+                class="input-text"
+                />
+            <br />
+
+                <input 
+                type="submit"
+                name="submit"
+                value="Submit Question"
+                class="pagebutton"
+                />
+        </form>
+    </div>
+    <div id="filter">
+        <label  for="filtercategory">Filter Questions By Category. Choose One or Many</label>
+        <select id="categoryfilter" multiple>
+            <option value="History">History</option>
+            <option value="Science">Science</option>
+            <option value="Art">Art</option>
+            <option value="Entertainment">Entertainment</option>
+            <option value="Art">Art</option>
+        </select>
+    </div>
+
+    <div id="currentquestion">
+        QUESTION Here but  formatted
+        
+    </div>
+    <button class="pagebutton" id="nextquestion">Next Question</button>
+    
+
+</body>
+</html>

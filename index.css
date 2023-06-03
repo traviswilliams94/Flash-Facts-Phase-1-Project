@@ -1,1 +1,46 @@
 /* CSS Here */
+
+.pageheader {
+    display: flex;
+    justify-content: center;
+    background: rgb(255, 255, 0);
+    opacity: .8;
+    height: 7rem;
+    padding: 1rem;
+}
+
+#formcontainer {
+    padding: 1rem;
+    width: stretch;
+    height: auto;
+    display: none;
+    background: red;
+    opacity: .8;
+  }
+
+  #addquestion {
+    position:relative;
+    left:90%;
+  }
+
+  #currentquestion {
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    z-index: 15;
+    top: 55%;
+    left: 50%;
+    margin: -100px 0 0 -300px;
+    display: flex;
+    justify-content: center;
+    background: red;
+    
+  } 
+
+  #nextquestion {
+    position:absolute;
+    top: 99%;
+    left: 76%;
+    margin: -100px 0 0 -300px;
+
+  }
