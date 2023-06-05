@@ -2401,603 +2401,603 @@
             ]
         },
         {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What does &quot;hippopotamus&quot; mean and in what langauge?",
-            "correct_answer": "River Horse (Greek)",
+            "question": "At which bridge does the annual Oxford and Cambridge boat race start?",
+            "correct_answer": "Putney",
             "incorrect_answers": [
-                "River Horse (Latin)",
-                "Fat Pig (Greek)",
-                "Fat Pig (Latin)"
+                "Hammersmith",
+                "Vauxhall ",
+                "Battersea"
             ]
         },
         {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "A carnivorous animal eats flesh, what does a nucivorous animal eat?",
-            "correct_answer": "Nuts",
-            "incorrect_answers": [
-                "Nothing",
-                "Fruit",
-                "Seaweed"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the fastest  land animal?",
-            "correct_answer": "Cheetah",
-            "incorrect_answers": [
-                "Lion",
-                "Thomson&rsquo;s Gazelle",
-                "Pronghorn Antelope"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the scientific name for modern day humans?",
-            "correct_answer": "Homo Sapiens",
-            "incorrect_answers": [
-                "Homo Ergaster",
-                "Homo Erectus",
-                "Homo Neanderthalensis"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The Kākāpō is a large, flightless, nocturnal parrot native to which country?",
-            "correct_answer": "New Zealand",
-            "incorrect_answers": [
-                "South Africa",
-                "Australia",
-                "Madagascar"
-            ]
-        },
-        {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "Which species of Brown Bear is not extinct?",
-            "correct_answer": "Syrian Brown Bear",
+            "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+            "correct_answer": "Nine",
             "incorrect_answers": [
-                "California Grizzly Bear",
-                "Atlas Bear",
-                "Mexican Grizzly Bear"
+                "Ten",
+                "Seven",
+                "Eight"
             ]
         },
         {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What color/colour is a polar bear&#039;s skin?",
-            "correct_answer": "Black",
+            "question": "With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?",
+            "correct_answer": "Jordan",
             "incorrect_answers": [
-                "White",
-                "Pink",
-                "Green"
+                "Benetton",
+                "Ferrari",
+                "Mercedes"
             ]
         },
         {
-            "category": "Animals",
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+            "correct_answer": "Hammer",
+            "incorrect_answers": [
+                "Wrench",
+                "Drill",
+                "Screwdriver"
+            ]
+        },
+        {
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Hippocampus is the Latin name for which marine creature?",
-            "correct_answer": "Seahorse",
+            "question": "In golf, what name is given to a hole score of two under par?",
+            "correct_answer": "Eagle",
             "incorrect_answers": [
-                "Dolphin",
-                "Whale",
-                "Octopus"
+                "Birdie",
+                "Bogey",
+                "Albatross"
             ]
         },
         {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Cashmere is the wool from which kind of animal?",
-            "correct_answer": "Goat",
+            "question": "Who was the British professional wrestler Shirley Crabtree better known as?",
+            "correct_answer": "Big Daddy",
             "incorrect_answers": [
-                "Sheep",
-                "Camel",
-                "Llama"
+                "Giant Haystacks",
+                "Kendo Nagasaki",
+                "Masambula"
             ]
         },
         {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What is the scientific name for the &quot;Polar Bear&quot;?",
-            "correct_answer": "Ursus Maritimus",
+            "question": "What is the nickname of Northampton town&#039;s rugby union club?",
+            "correct_answer": "Saints",
             "incorrect_answers": [
-                "Polar Bear",
-                "Ursus Spelaeus",
-                "Ursus Arctos"
+                "Harlequins",
+                "Saracens",
+                "Wasps"
             ]
         },
         {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What are rhino&#039;s horn made of?",
-            "correct_answer": "Keratin",
-            "incorrect_answers": [
-                "Bone",
-                "Ivory",
-                "Skin"
-            ]
-        },
-        {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "How many legs do butterflies have?",
+            "question": "Which English football club has the nickname &#039;The Foxes&#039;?",
+            "correct_answer": "Leicester City",
+            "incorrect_answers": [
+                "Northampton Town",
+                "Bradford City",
+                "West Bromwich Albion"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which team won the 2015-16 English Premier League?",
+            "correct_answer": "Leicester City",
+            "incorrect_answers": [
+                "Liverpool",
+                "Cheslea",
+                "Manchester United"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "A stimpmeter measures the speed of a ball over what surface?",
+            "correct_answer": "Golf Putting Green",
+            "incorrect_answers": [
+                " Football Pitch",
+                "Cricket Outfield",
+                "Pinball Table"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In baseball, how many fouls are an out?",
+            "correct_answer": "0",
+            "incorrect_answers": [
+                "5",
+                "3",
+                "2"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The F1 season of 1994 is remembered for what tragic event?",
+            "correct_answer": "Death of Ayrton Senna (San Marino)",
+            "incorrect_answers": [
+                "The Showdown (Australia)",
+                "Verstappen on Fire (Germany)",
+                "Schumacher&#039;s Ban (Britain)"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The Rio 2016 Summer Olympics held it&#039;s closing ceremony on what date?",
+            "correct_answer": "August 21",
+            "incorrect_answers": [
+                "August 23",
+                "August 19",
+                "August 17"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which country has hosted the 2018 FIFA World Cup?",
+            "correct_answer": "Russia",
+            "incorrect_answers": [
+                "Germany",
+                "United States",
+                "Saudi Arabia"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which country is hosting the 2022 FIFA World Cup?",
+            "correct_answer": "Qatar",
+            "incorrect_answers": [
+                "Uganda",
+                "Vietnam",
+                "Bolivia"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+            "correct_answer": "7 - 1",
+            "incorrect_answers": [
+                "0 - 1",
+                "3 - 4",
+                "16 - 0"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which team was the 2015-2016 NBA Champions?",
+            "correct_answer": "Cleveland Cavaliers",
+            "incorrect_answers": [
+                "Golden State Warriors",
+                "Toronto Raptors",
+                "Oklahoma City Thunders"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which team was the 2014-2015 NBA Champions?",
+            "correct_answer": "Golden State Warriors",
+            "incorrect_answers": [
+                "Cleveland Cavaliers",
+                "Houston Rockets",
+                "Atlanta Hawks"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Where was the Games of the XXII Olympiad held?",
+            "correct_answer": "Moscow",
+            "incorrect_answers": [
+                "Barcelona",
+                "Tokyo",
+                "Los Angeles"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Josh Mansour is part of what NRL team?",
+            "correct_answer": "Penrith Panthers",
+            "incorrect_answers": [
+                "Melbourne Storm",
+                "Sydney Roosters",
+                "North Queensland Cowboys"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+            "correct_answer": "Mazda",
+            "incorrect_answers": [
+                "Toyota",
+                "Subaru",
+                "Nissan"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which Italian footballer told Neuer where he&#039;s putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+            "correct_answer": "Pelle",
+            "incorrect_answers": [
+                "Insigne",
+                "Barzagli",
+                "Giaccherini"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+            "correct_answer": "DING Ning (China)",
+            "incorrect_answers": [
+                "LI Xiaoxia (China)",
+                "Ai FUKUHARA (Japan)",
+                "Song KIM (North Korea)"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which soccer team won the Copa Am&eacute;rica Centenario 2016?",
+            "correct_answer": "Chile",
+            "incorrect_answers": [
+                "Argentina",
+                "Brazil",
+                "Colombia"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which team won 2014 FIFA World Cup in Brazil?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "Argentina",
+                "Brazil",
+                "Netherlands"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many points did LeBron James score in his first NBA game?",
+            "correct_answer": "25",
+            "incorrect_answers": [
+                "19",
+                "69",
+                "41"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who won the 2016 Formula 1 World Driver&#039;s Championship?",
+            "correct_answer": "Nico Rosberg",
+            "incorrect_answers": [
+                "Lewis Hamilton",
+                "Max Verstappen",
+                "Kimi Raikkonen"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the oldest team in the NFL?",
+            "correct_answer": "Arizona Cardinals",
+            "incorrect_answers": [
+                "Chicago Bears",
+                "Green Bay Packers",
+                "New York Giants"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What is the oldest team in Major League Baseball?",
+            "correct_answer": "Atlanta Braves",
+            "incorrect_answers": [
+                "Chicago Cubs",
+                "Cincinnati Reds",
+                "St. Louis Cardinals"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Why was The Green Monster at Fenway Park was originally built?",
+            "correct_answer": "To prevent viewing games from outside the park.",
+            "incorrect_answers": [
+                "To make getting home runs harder.",
+                "To display advertisements.",
+                "To provide extra seating."
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
+            "correct_answer": "American Football",
+            "incorrect_answers": [
+                "Wrestling",
+                "Archery",
+                "Horse-Racing"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "When was the first official international game played?",
+            "correct_answer": "1872",
+            "incorrect_answers": [
+                "1880",
+                "1863",
+                "1865"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
+            "correct_answer": "Mike Tyson",
+            "incorrect_answers": [
+                "Roy Jones Jr.",
+                "Evander Holyfield",
+                "Lennox Lewis"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What team did England beat to win in the 1966 World Cup final?",
+            "correct_answer": "West Germany",
+            "incorrect_answers": [
+                "Soviet Union",
+                "Portugal",
+                "Brazil"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
+            "correct_answer": "Portugal",
+            "incorrect_answers": [
+                "West Germany",
+                "Soviet Union",
+                "Brazil"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many French Open&#039;s did Bj&ouml;rn Borg win?",
             "correct_answer": "6",
             "incorrect_answers": [
-                "2",
                 "4",
-                "0"
+                "9",
+                "2"
             ]
         },
         {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What scientific suborder does the family Hyaenidae belong to?",
-            "correct_answer": "Feliformia",
-            "incorrect_answers": [
-                "Haplorhini",
-                "Caniformia",
-                "Ciconiiformes"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "How many known living species of hyenas are there?",
-            "correct_answer": "4",
-            "incorrect_answers": [
-                "8",
-                "2",
-                "6"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What scientific family does the Aardwolf belong to?",
-            "correct_answer": "Hyaenidae",
-            "incorrect_answers": [
-                "Canidae",
-                "Felidae",
-                "Eupleridae"
-            ]
-        },
-        {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "For what reason would a spotted hyena &quot;laugh&quot;?",
-            "correct_answer": "Nervousness",
+            "question": "How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?",
+            "correct_answer": "13",
             "incorrect_answers": [
-                "Excitement",
-                "Aggression",
-                "Exhaustion"
+                "11",
+                "20",
+                "22"
             ]
         },
         {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What do you call a baby bat?",
-            "correct_answer": "Pup",
+            "question": "Who won the premier league title in the 2015-2016 season following a fairy tale run?",
+            "correct_answer": "Leicester City",
             "incorrect_answers": [
-                "Cub",
-                "Chick",
-                "Kid"
+                "Tottenham Hotspur",
+                "Watford",
+                "Stoke City"
             ]
         },
         {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What is the scientific name of the cheetah?",
-            "correct_answer": "Acinonyx jubatus",
-            "incorrect_answers": [
-                "Panthera onca",
-                "Lynx rufus",
-                "Felis catus"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What is the scientific name of the Budgerigar?",
-            "correct_answer": "Melopsittacus undulatus",
-            "incorrect_answers": [
-                "Nymphicus hollandicus",
-                "Pyrrhura molinae",
-                "Ara macao"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which animal was part of an Russian domestication experiment in 1959?",
-            "correct_answer": "Foxes",
-            "incorrect_answers": [
-                "Pigeons",
-                "Bears",
-                "Alligators"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "The now extinct species &quot;Thylacine&quot; was native to where?",
-            "correct_answer": "Tasmania, Australia",
-            "incorrect_answers": [
-                "Baluchistan, Pakistan",
-                "Wallachia, Romania",
-                "Oregon, United States"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What is the Gray Wolf&#039;s scientific name?",
-            "correct_answer": "Canis Lupus",
-            "incorrect_answers": [
-                "Canis Aureus",
-                "Canis Latrans",
-                "Canis Lupus Lycaon"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which of these animals is NOT a lizard?",
-            "correct_answer": "Tuatara",
-            "incorrect_answers": [
-                "Komodo Dragon",
-                "Gila Monster",
-                "Green Iguana"
-            ]
-        },
-        {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is Grumpy Cat&#039;s real name?",
-            "correct_answer": "Tardar Sauce",
+            "question": "Who did Steven Gerrard win the Champions League with?",
+            "correct_answer": "Liverpool",
             "incorrect_answers": [
-                "Sauce",
-                "Minnie",
-                "Broccoli"
+                "Real Madrid",
+                "Chelsea",
+                "Man City"
             ]
         },
         {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What type of creature is a Bonobo?",
-            "correct_answer": "Ape",
-            "incorrect_answers": [
-                "Lion",
-                "Parrot",
-                "Wildcat"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which of these species is not extinct?",
-            "correct_answer": "Komodo dragon",
-            "incorrect_answers": [
-                "Japanese sea lion",
-                "Tasmanian tiger",
-                "Saudi gazelle"
-            ]
-        },
-        {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which class of animals are newts members of?",
-            "correct_answer": "Amphibian",
+            "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+            "correct_answer": "Brooklyn",
             "incorrect_answers": [
-                "Fish",
-                "Reptiles",
-                "Mammals"
+                "Las Vegas",
+                "Boston",
+                "Seattle"
             ]
         },
         {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Unlike on most salamanders, this part of a newt is flat?",
-            "correct_answer": "Tail",
-            "incorrect_answers": [
-                "Head",
-                "Teeth",
-                "Feet"
-            ]
-        },
-        {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What is the name of the family that the domestic cat is a member of?",
-            "correct_answer": "Felidae",
+            "question": "Who was the topscorer for England national football team?",
+            "correct_answer": "Wayne Rooney",
             "incorrect_answers": [
-                "Felinae",
-                "Felis",
-                "Cat"
+                "David Beckham",
+                "Steven Gerrard",
+                "Michael Owen"
             ]
         },
         {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What dog bread is one of the oldest breeds of dog and has flourished since before 400 BCE.",
-            "correct_answer": "Pugs",
-            "incorrect_answers": [
-                "Bulldogs",
-                "Boxers",
-                "Chihuahua"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?",
-            "correct_answer": "Hemocyanin",
-            "incorrect_answers": [
-                "Cytochrome",
-                "Iron",
-                "Methionine"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which species is a &quot;mountain chicken&quot;?",
-            "correct_answer": "Frog",
-            "incorrect_answers": [
-                "Chicken",
-                "Horse",
-                "Fly"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the fastest animal?",
-            "correct_answer": "Peregrine Falcon",
-            "incorrect_answers": [
-                "Golden Eagle",
-                "Cheetah",
-                "Horsefly"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "The dish Fugu, is made from what family of fish?",
-            "correct_answer": "Pufferfish",
-            "incorrect_answers": [
-                "Bass",
-                "Salmon",
-                "Mackerel"
-            ]
-        },
-        {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the collective noun for a group of crows?",
-            "correct_answer": "Murder",
+            "question": "Who won the 2017 Formula One World Drivers&#039; Championship?",
+            "correct_answer": "Lewis Hamilton",
             "incorrect_answers": [
-                "Pack",
-                "Gaggle",
-                "Herd"
+                "Sebastian Vettel",
+                "Nico Rosberg",
+                "Max Verstappen"
             ]
         },
         {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?",
-            "correct_answer": "Gooty",
-            "incorrect_answers": [
-                "Hopper",
-                "Silver Stripe",
-                "Woebegone"
-            ]
-        },
-        {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What is the scientific name of the Common Chimpanzee?",
-            "correct_answer": "Pan troglodytes",
+            "question": "What is Tiger Woods&#039; all-time best career golf-score?",
+            "correct_answer": "61",
             "incorrect_answers": [
-                "Gorilla gorilla",
-                "Pan paniscus",
-                "Panthera leo"
+                "65",
+                "63",
+                "67"
             ]
         },
         {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "By definition, where does an abyssopelagic animal live?",
-            "correct_answer": "At the bottom of the ocean",
+            "question": "Who won the UEFA Champions League in 2017?",
+            "correct_answer": "Real Madrid C.F.",
             "incorrect_answers": [
-                "In the desert",
-                "On top of a mountain",
-                "Inside a tree"
+                "Atletico Madrid",
+                "AS Monaco FC",
+                "Juventus F.C."
             ]
         },
         {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which of these is a colony of polyps and not a jellyfish?",
-            "correct_answer": "Portuguese Man-of-War",
-            "incorrect_answers": [
-                "Sea Wasp",
-                "Irukandji",
-                "Sea Nettle"
-            ]
-        },
-        {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What colour is the female blackbird?",
-            "correct_answer": "Brown",
+            "question": "In the 2014 FIFA World Cup, what was the final score in the match Brazil - Germany?",
+            "correct_answer": "1-7",
             "incorrect_answers": [
-                "Black",
-                "White",
-                "Yellow"
+                "1-5",
+                "1-6",
+                "2-6"
             ]
         },
         {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the common term for bovine spongiform encephalopathy (BSE)?",
-            "correct_answer": "Mad Cow disease",
-            "incorrect_answers": [
-                "Weil&#039;s disease",
-                "Milk fever",
-                "Foot-and-mouth disease"
-            ]
-        },
-        {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "How many teeth does an adult rabbit have?",
-            "correct_answer": "28",
+            "question": "Which two teams played in Super Bowl XLII?",
+            "correct_answer": "The New York Giants &amp; The New England Patriots",
             "incorrect_answers": [
-                "30",
-                "26",
-                "24"
+                "The Green Bay Packers &amp; The Pittsburgh Steelers",
+                "The Philadelphia Eagles &amp; The New England Patriots",
+                "The Seattle Seahawks &amp; The Denver Broncos"
             ]
         },
         {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the name of a rabbit&#039;s abode?",
-            "correct_answer": "Burrow",
-            "incorrect_answers": [
-                "Nest",
-                "Den",
-                "Dray"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the collective noun for bears?",
-            "correct_answer": "Sloth",
-            "incorrect_answers": [
-                "Drove",
-                "Tribe",
-                "Husk"
-            ]
-        },
-        {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the collective noun for rats?",
-            "correct_answer": "Mischief",
-            "incorrect_answers": [
-                "Pack",
-                "Race",
-                "Drift"
-            ]
-        },
-        {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "What is the collective noun for vultures?",
-            "correct_answer": "Wake",
+            "question": "What is &ldquo;The Sport of Kings&rdquo;?",
+            "correct_answer": "Horse Racing",
             "incorrect_answers": [
-                "Ambush",
-                "Building",
-                "Gaze"
+                "Chess",
+                "Jousting",
+                "Fencing"
             ]
         },
         {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What bird is born with claws on its wing digits?",
-            "correct_answer": "Hoatzin",
-            "incorrect_answers": [
-                "Cormorant",
-                "Cassowary",
-                "Secretary bird"
-            ]
-        },
-        {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "&quot;Decapods&quot; are an order of ten-footed crustaceans.  Which of these are NOT decapods?",
-            "correct_answer": "Krill",
+            "question": "Which NBA player has the most games played over the course of their career?",
+            "correct_answer": "Robert Parish",
             "incorrect_answers": [
-                "Lobsters",
-                "Shrimp",
-                "Crabs"
+                "Kareem Abdul-Jabbar",
+                "Kevin Garnett",
+                "Kobe Bryant"
             ]
         },
         {
-            "category": "Animals",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "To which biological phylum do all mammals, birds and reptiles belong?",
-            "correct_answer": "Chordata",
-            "incorrect_answers": [
-                "Echinodermata",
-                "Annelida",
-                "Placazoa"
-            ]
-        },
-        {
-            "category": "Animals",
+            "category": "Sports",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What is the world&#039;s longest venomous snake?",
-            "correct_answer": "King Cobra",
+            "question": "Which of these countries&#039; national teams qualified for the 2018 FIFA World Cup in Russia?",
+            "correct_answer": "Tunisia",
             "incorrect_answers": [
-                "Green Anaconda",
-                "Inland Taipan",
-                "Yellow Bellied Sea Snake"
+                "United States of America",
+                "Italy",
+                "Netherlands"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which English football team is nicknamed &#039;The Tigers&#039;?",
+            "correct_answer": "Hull City",
+            "incorrect_answers": [
+                "Cardiff City",
+                "Bristol City",
+                "Manchester City"
             ]
         }
     ]
