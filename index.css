@@ -7,6 +7,8 @@
     opacity: .8;
     height: 7rem;
     padding: 1rem;
+    z-index: 50;
+    border-radius: 30px;
 }
 
 #formcontainer {
@@ -16,15 +18,31 @@
     display: none;
     background: red;
     opacity: .8;
+    z-index: 5;
   }
 
   #addquestion {
     position:relative;
-    left:90%;
+    float: right;
+    z-index: 10;
+    margin-top: 10px;
+    margin-bottom: 10px;
   }
 
   #currentquestion {
-    position: absolute;
+    
+      width: 40rem;
+      height: 30rem;
+      background-color: rgba(255, 0, 0, 0.51);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      /* justify-content: space-around; */
+      border-radius: 30px;
+      margin:auto;
+      margin-top: 15px;
+  
+    /* position: absolute;
     width: 600px;
     height: 400px;
     z-index: 15;
@@ -33,14 +51,69 @@
     margin: -100px 0 0 -300px;
     display: flex;
     justify-content: center;
-    background: red;
+    background: rgba(255, 0, 0, 0.288);
+    border-radius: 10px; */
     
   } 
 
   #nextquestion {
-    position:absolute;
-    top: 99%;
-    left: 76%;
-    margin: -100px 0 0 -300px;
+    position:relative;
+    margin: auto;
+    float: right;
+    
+   
+    /* margin: -100px 0 0 -300px; */
 
+  }
+
+  .input-text {
+    border-radius: 5px;
+    height: 2rem;
+    width: 60%;
+    font-size: 14px;
+    margin: 3px;
+  }
+
+  .forminputs{
+    font-size: 18px;
+    color: white
+  }
+
+  #formcontainer {
+    border-radius: 10px;
+  }
+
+  .responsebutton {
+   width:500px;
+   height:80px;
+   margin-bottom: 10px;
+   background-color: rgba(255, 255, 0, 0.749);
+   border-radius: 5px ;
+   border-color: rgba(255, 255, 0, 0.749);
+  }
+
+  .displayquestion {
+    color: black;
+    font-family: monospace;
+    font-size: 24px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    margin-right:10px;
+   
+  }
+
+  .pagebutton {
+    width: 150px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+    border-radius: 10px;
+    border-color: blue;
+  }
+
+  .filter  {
+    margin-top: 10px;
+    margin-bottom: 10px;
   }

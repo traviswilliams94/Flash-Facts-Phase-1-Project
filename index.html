@@ -12,16 +12,16 @@
 </head>
 <body>
     <div class="pageheader">
-        <h1 class="title">Fact Flash!</h1>
+        <h1 class="title" style="color:red;font-size: 48px">Fact Flash!</h1>
     </div>
     
     <button class="pagebutton" id="addquestion">Add a new question!</button>
 
     <div id="formcontainer">
-        <form id="newtoyform">
-            <h2>Submit your Question!</h2>
-                <label for="category">Category: </label>
-                <select id="categoryselect">
+        <form id="newquestionform">
+            <h2 style="color: white">Submit your Question!</h2>
+                <label class="forminputs" for="category">Category: </label>
+                <select class="input-text" id="categoryselect">
                     <option value="History">History</option>
                     <option value="Science & Nature">Science & Nature</option>
                     <option value="General Knowledge">General Knowledge</option>
@@ -29,7 +29,7 @@
                     <option value="Art">Art</option>
                 </select>
             <br />
-                <label for="question">Question: </label>
+                <label class="forminputs" for="question">Question: </label>
                 <input
                 type="text"
                 name="Question: "
@@ -38,7 +38,7 @@
                 class="input-text"
                 />
             <br />
-                <label for="response1">Correct Option: </label>
+                <label class="forminputs" for="response1">Correct Option &check;: </label>
                 <input
                 type="text"
                 name="Correct Response: "
@@ -47,7 +47,7 @@
                 class="input-text"
                 />
             <br />
-                <label for="response2">Wrong Option 1: </label>
+                <label class="forminputs" for="response2">Wrong Option 1  &#10006;: </label>
                 <input
                 type="text"
                 name="Response 2: "
@@ -56,7 +56,7 @@
                 class="input-text"
                 />
             <br />
-                <label for="response3">Wrong Option 2: </label>
+                <label class="forminputs" for="response3">Wrong Option 2 &#10006;: </label>
                 <input
                 type="text"
                 name="Response 3: "
@@ -65,7 +65,7 @@
                 class="input-text"
                 />
             <br />
-               <label for="response4">Wrong Option 3: </label>
+               <label class="forminputs" for="response4">Wrong Option 3 &#10006;: </label>
                 <input
                 type="text"
                 name="Response 4: "
@@ -79,23 +79,34 @@
                 type="submit"
                 name="submit"
                 value="Submit Question"
+                id="submitbutton"
                 class="pagebutton"
                 />
         </form>
     </div>
-    <div id="filter">
-        <label  for="filtercategory">Filter Questions By Category. Choose One or Many</label>
-        <select id="categoryfilter" multiple>
+    <div class="filter" id="filterelement">
+       
+        <select class="filter" id="categoryfilter" style="width:250px" multiple>
             <option value="History">History</option>
             <option value="Science & Nature">Science & Nature</option>
             <option value="General Knowledge">General Knowledge</option>
             <option value="Sports">Sports</option>
             <option value="Art">Art</option>
         </select>
+        <br />
+        <label  for="filtercategory">Filter Questions By Category. Choose One or Many with CMD-click.</label> 
     </div>
 
     <div id="currentquestion">
-        QUESTION Here but  formatted
+        <p class="displayquestion">Question PlaceHolder that is longer and will test how the text displays</p>
+    <br />
+        <button class="responsebutton" id="option1">Option 1</button>
+    <br />
+        <button class="responsebutton" id="option2">Option 2</button>
+    <br />
+        <button class="responsebutton" id="option3">Option 3</button>
+    <br />
+        <button class="responsebutton" id="option4">Option 4</button>
         
     </div>
     <button class="pagebutton" id="nextquestion">Next Question</button>
