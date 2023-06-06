@@ -1,9 +1,8 @@
 // code here
-let questions;
 
 // Fetching the JSON data
 fetch('db.json')
-    .then(response => response.json())
+    .then(res => res.json())
     .then(data => {
         questions = data.questions;
         generateQuestion();
