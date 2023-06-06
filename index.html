@@ -9,6 +9,7 @@
     <title>FACT FLASH!</title>
     <link rel="stylesheet" href="index.css" />
     <script defer src="index.js"></script>
+    <script defer src="post.js"></script>
 </head>
 <body>
     <div class="pageheader">
@@ -20,8 +21,8 @@
     <div id="formcontainer">
         <form id="newquestionform">
             <h2 style="color: white">Submit your Question!</h2>
-                <label class="forminputs" for="category">Category: </label>
-                <select class="input-text" id="categoryselect">
+                <label class="forminputs" for="Category:">Category: </label>
+                <select name="category" class="input-text" id="categoryselect">
                     <option value="History">History</option>
                     <option value="Science & Nature">Science & Nature</option>
                     <option value="General Knowledge">General Knowledge</option>
@@ -29,46 +30,46 @@
                     <option value="Entertainment: Film">Entertainment: Film</option>
                 </select>
             <br />
-                <label class="forminputs" for="question">Question: </label>
+                <label class="forminputs" for="Question:">Question: </label>
                 <input
                 type="text"
-                name="Question: "
+                name="question"
                 value=""
                 placeholder="Type Your Question"
                 class="input-text"
                 />
             <br />
-                <label class="forminputs" for="response1">Correct Option &check;: </label>
+                <label class="forminputs" for="Correct Option">Correct Option &check;: </label>
                 <input
                 type="text"
-                name="Correct Response: "
+                name="CorrectResponse"
                 value=""
                 placeholder="Add Correct Option"
                 class="input-text"
                 />
             <br />
-                <label class="forminputs" for="response2">Wrong Option 1  &#10006;: </label>
+                <label class="forminputs" for="Wrong Option 1">Wrong Option 1  &#10006;: </label>
                 <input
                 type="text"
-                name="Response 2: "
+                name="WrongOption1"
                 value=""
                 placeholder="Add Wrong Option"
                 class="input-text"
                 />
             <br />
-                <label class="forminputs" for="response3">Wrong Option 2 &#10006;: </label>
+                <label class="forminputs" for="Wrong Option 2">Wrong Option 2 &#10006;: </label>
                 <input
                 type="text"
-                name="Response 3: "
+                name="WrongOption2"
                 value=""
                 placeholder="Add Wrong Option"
                 class="input-text"
                 />
             <br />
-               <label class="forminputs" for="response4">Wrong Option 3 &#10006;: </label>
+               <label class="forminputs" for="Wrong Option 3">Wrong Option 3 &#10006;: </label>
                 <input
                 type="text"
-                name="Response 4: "
+                name="WrongOption3"
                 value=""
                 placeholder="Add Wrong Option"
                 class="input-text"

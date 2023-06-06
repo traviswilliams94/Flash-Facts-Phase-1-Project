@@ -1,6 +1,6 @@
 // code here
 
-// Fetching the JSON data
+// Fetching the JSON data 
 fetch('db.json')
     .then(res => res.json())
     .then(data => {
@@ -24,7 +24,7 @@ function generateQuestion() {
     // Display the shuffled answers
     for (let i = 0; i < 4; i++) {
         document.getElementById('option' + (i+1)).textContent = answers[i];
-    }
+    };
 }
 
 // Fisher-Yates Shuffle algorithm to shuffle the answers
