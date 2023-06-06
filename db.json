@@ -16,7 +16,7 @@
             "category": "History",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What historical event was Tchaikovsky&#039;s 1812 Overture referencing?",
+            "question": "What historical event was Tchaikovsky's 1812 Overture referencing?",
             "correct_answer": "The Napoleonic Wars",
             "incorrect_answers": [
                 "The American War of 1812",
@@ -40,7 +40,7 @@
             "category": "History",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What number does the Roman numeral &quot;D&quot; stand for?",
+            "question": "What number does the Roman numeral 'D' stand for?",
             "correct_answer": "500",
             "incorrect_answers": [
                 "100",
@@ -124,7 +124,7 @@
             "category": "History",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What was Manfred von Richthofen&#039;s nickname?",
+            "question": "What was Manfred von Richthofen's nickname?",
             "correct_answer": "The Red Baron",
             "incorrect_answers": [
                 "The High Flying Ace",
@@ -304,7 +304,7 @@
             "category": "History",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "The &quot;Trail of Tears&quot; was a result of which United States President&#039;s Indian Removal Policy?",
+            "question": "The 'Trail of Tears' was a result of which United States President's Indian Removal Policy?",
             "correct_answer": "Andrew Jackson",
             "incorrect_answers": [
                 "Harry S. Truman",
@@ -352,7 +352,7 @@
             "category": "History",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "When was the &quot;Siege of Leningrad&quot; lifted during World War II?",
+            "question": "When was the 'Siege of Leningrad' lifted during World War II?",
             "correct_answer": "January 1944",
             "incorrect_answers": [
                 "September 1943",
@@ -508,7 +508,7 @@
             "category": "History",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Which Louis was known as &#039;The Sun King of France&#039;?",
+            "question": "Which Louis was known as 'The Sun King of France'?",
             "correct_answer": "Louis XIV",
             "incorrect_answers": [
                 "Louis XIII",
@@ -544,7 +544,7 @@
             "category": "History",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "The son of which pope supposedly held a lecherous f&ecirc;te involving 50 courtesans in the papal palace?",
+            "question": "The son of which pope supposedly held a lecherous fête involving 50 courtesans in the papal palace?",
             "correct_answer": "Alexander VI",
             "incorrect_answers": [
                 "Innocent V",
@@ -556,10 +556,10 @@
             "category": "History",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "The ontological argument for the proof of God&#039;s existence is first attributed to whom?",
+            "question": "The ontological argument for the proof of God's existence is first attributed to whom?",
             "correct_answer": "Anselm of Canterbury",
             "incorrect_answers": [
-                "Ren&eacute; Descartes",
+                "René Descartes",
                 "Immanuel Kant",
                 "Aristotle"
             ]
@@ -580,7 +580,7 @@
             "category": "History",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Which Nazi General was known as the &quot;Desert Fox&quot;?",
+            "question": "Which Nazi General was known as the 'Desert Fox'?",
             "correct_answer": "Erwin Rommel",
             "incorrect_answers": [
                 "Gerd von Rundstadt",
@@ -676,7 +676,7 @@
             "category": "Science & Nature",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the &quot;powerhouse&quot; of the Eukaryotic animal cell?",
+            "question": "What is the 'powerhouse' of the Eukaryotic animal cell?",
             "correct_answer": "Mitochondria",
             "incorrect_answers": [
                 "Nucleus",
@@ -748,7 +748,7 @@
             "category": "Science & Nature",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Alzheimer&#039;s disease primarily affects which part of the human body?",
+            "question": "Alzheimer's disease primarily affects which part of the human body?",
             "correct_answer": "Brain",
             "incorrect_answers": [
                 "Lungs",
@@ -808,7 +808,7 @@
             "category": "Science & Nature",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Where did the dog breed &quot;Chihuahua&quot; originate?",
+            "question": "Where did the dog breed 'Chihuahua' originate?",
             "correct_answer": "Mexico",
             "incorrect_answers": [
                 "France",
@@ -833,7 +833,7 @@
             "type": "multiple",
             "difficulty": "easy",
             "question": "Who is the chemical element Curium named after?",
-            "correct_answer": "Marie &amp; Pierre Curie",
+            "correct_answer": "Marie and Pierre Curie",
             "incorrect_answers": [
                 "The Curiosity Rover",
                 "Curious George",
@@ -856,7 +856,7 @@
             "category": "Science & Nature",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "&quot;The Big Bang Theory&quot; was first theorized by a priest of what religious ideology?",
+            "question": "'The Big Bang Theory' was first theorized by a priest of what religious ideology?",
             "correct_answer": "Catholic",
             "incorrect_answers": [
                 "Christian",
@@ -940,7 +940,7 @@
             "category": "Science & Nature",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "What does the term &quot;isolation&quot; refer to in microbiology?",
+            "question": "What does the term 'isolation' refer to in microbiology?",
             "correct_answer": "The separation of a strain from a natural, mixed population of living microbes",
             "incorrect_answers": [
                 "A lack of nutrition in microenviroments",
@@ -976,7 +976,7 @@
             "category": "Science & Nature",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What animal takes part in Schr&ouml;dinger&#039;s most famous thought experiment?",
+            "question": "What animal takes part in Schrödinger's most famous thought experiment?",
             "correct_answer": "Cat",
             "incorrect_answers": [
                 "Dog",
@@ -1060,7 +1060,7 @@
             "category": "Science & Nature",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "An organism described as &quot;heliotropic&quot; has a tendancy to move towards which of these things?",
+            "question": "An organism described as 'heliotropic' has a tendancy to move towards which of these things?",
             "correct_answer": "Light",
             "incorrect_answers": [
                 "Water",
@@ -1096,7 +1096,7 @@
             "category": "Science & Nature",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "The word &quot;science&quot; stems from the word &quot;scire&quot; meaning what?",
+            "question": "The word 'science' stems from the word 'scire' meaning what?",
             "correct_answer": "To know",
             "incorrect_answers": [
                 "To measure",
@@ -1204,7 +1204,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which of the following is not the name of a &quot;Bond Girl&quot;? ",
+            "question": "Which of the following is not the name of a 'Bond Girl'? ",
             "correct_answer": "Vanessa Kensington",
             "incorrect_answers": [
                 "Pam Bouvier",
@@ -1216,7 +1216,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who starred as Bruce Wayne and Batman in Tim Burton&#039;s 1989 movie &quot;Batman&quot;?",
+            "question": "Who starred as Bruce Wayne and Batman in Tim Burton's 1989 movie 'Batman'?",
             "correct_answer": "Michael Keaton",
             "incorrect_answers": [
                 "George Clooney",
@@ -1228,7 +1228,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who directed &quot;E.T. the Extra-Terrestrial&quot; (1982)?",
+            "question": "Who directed 'E.T. the Extra-Terrestrial' (1982)?",
             "correct_answer": "Steven Spielberg",
             "incorrect_answers": [
                 "Stanley Kubrick",
@@ -1252,7 +1252,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "When was the movie &#039;Con Air&#039; released?",
+            "question": "When was the movie 'Con Air' released?",
             "correct_answer": "1997",
             "incorrect_answers": [
                 "1985",
@@ -1264,7 +1264,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "In the film &quot;Interstellar&quot;, how long did they spend on Miller&#039;s planet?",
+            "question": "In the film 'Interstellar', how long did they spend on Miller's planet?",
             "correct_answer": "23 years, 4 months, and 8 days",
             "incorrect_answers": [
                 "15 years, 2 months, and 15 days",
@@ -1276,7 +1276,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "In the 1976 film &#039;Taxi Driver&#039;, how many guns did Travis buy from the salesman?",
+            "question": "In the 1976 film 'Taxi Driver', how many guns did Travis buy from the salesman?",
             "correct_answer": "4",
             "incorrect_answers": [
                 "2",
@@ -1288,7 +1288,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "In the 1984 movie &quot;The Terminator&quot;, what model number is the Terminator portrayed by Arnold Schwarzenegger?",
+            "question": "In the 1984 movie 'The Terminator', what model number is the Terminator portrayed by Arnold Schwarzenegger?",
             "correct_answer": "T-800",
             "incorrect_answers": [
                 "I-950",
@@ -1300,7 +1300,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What was Dorothy&#039;s surname in &#039;The Wizard Of Oz&#039;?",
+            "question": "What was Dorothy's surname in 'The Wizard Of Oz'?",
             "correct_answer": "Gale",
             "incorrect_answers": [
                 "Perkins",
@@ -1312,7 +1312,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What is the name of the dog that played Toto in the 1939 film &quot;The Wizard of Oz&quot;?",
+            "question": "What is the name of the dog that played Toto in the 1939 film 'The Wizard of Oz'?",
             "correct_answer": "Terry",
             "incorrect_answers": [
                 "Tommy",
@@ -1324,7 +1324,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What is the name of the Artificial Intelligence system in the 1983 film, &quot;WarGames&quot;?",
+            "question": "What is the name of the Artificial Intelligence system in the 1983 film, 'WarGames'?",
             "correct_answer": "War Operation Plan Response",
             "incorrect_answers": [
                 "Self Evolving Thought Helix",
@@ -1348,19 +1348,19 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "In 2012, which movie won every category in the 32nd &quot;Golden Raspberry Awards&quot;?",
+            "question": "In 2012, which movie won every category in the 32nd 'Golden Raspberry Awards'?",
             "correct_answer": "Jack and Jill",
             "incorrect_answers": [
                 "The Girl with the Dragon Tattoo",
                 "Thor",
-                "The King&#039;s Speech"
+                "The King's Speech"
             ]
         },
         {
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What is the name of the villian in the 2015 Russian-American Sci-Fi Movie &quot;Hardcore Henry&quot;?",
+            "question": "What is the name of the villian in the 2015 Russian-American Sci-Fi Movie 'Hardcore Henry'?",
             "correct_answer": "Akan",
             "incorrect_answers": [
                 "Estelle",
@@ -1372,7 +1372,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Who played Baron Victor Frankestein in the 1957 Hammer horror film &quot;The Curse of Frankenstein&quot;?",
+            "question": "Who played Baron Victor Frankestein in the 1957 Hammer horror film 'The Curse of Frankenstein'?",
             "correct_answer": "Peter Cushing",
             "incorrect_answers": [
                 "Boris Karloff",
@@ -1401,14 +1401,14 @@
             "incorrect_answers": [
                 "Good Will Hunting",
                 "Birdman",
-                "Schindler&#039;s List"
+                "Schindler's List"
             ]
         },
         {
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "In the movie &quot;Scream&quot; who is Ghost Face?",
+            "question": "In the movie 'Scream' who is Ghost Face?",
             "correct_answer": "Billy Loomis and Stu Macher",
             "incorrect_answers": [
                 "Dewey Riley",
@@ -1420,7 +1420,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "The 2002 film &quot;28 Days Later&quot; is mainly set in which European country?",
+            "question": "The 2002 film '28 Days Later' is mainly set in which European country?",
             "correct_answer": "United Kingdom",
             "incorrect_answers": [
                 "France",
@@ -1432,7 +1432,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In the movie &quot;Spaceballs&quot;, what are the Spaceballs attempting to steal from Planet Druidia?",
+            "question": "In the movie 'Spaceballs', what are the Spaceballs attempting to steal from Planet Druidia?",
             "correct_answer": "Air",
             "incorrect_answers": [
                 "The Schwartz",
@@ -1468,7 +1468,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What year did the James Cameron film &quot;Titanic&quot; come out in theaters?",
+            "question": "What year did the James Cameron film 'Titanic' come out in theaters?",
             "correct_answer": "1997",
             "incorrect_answers": [
                 "1996",
@@ -1492,7 +1492,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "When does &quot;Rogue One: A Star Wars Story&quot; take place chronologically in the series?",
+            "question": "When does 'Rogue One: A Star Wars Story' take place chronologically in the series?",
             "correct_answer": "Between Episode 3 and 4",
             "incorrect_answers": [
                 "After Episode 6",
@@ -1528,7 +1528,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the name of the island that &quot;Jurassic Park&quot; is built on?",
+            "question": "What is the name of the island that 'Jurassic Park' is built on?",
             "correct_answer": "Isla Nublar",
             "incorrect_answers": [
                 "Isla Sorna",
@@ -1540,7 +1540,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "In the &quot;Jurassic Park&quot; universe, what is the name of the island that contains InGen&#039;s Site B?",
+            "question": "In the 'Jurassic Park' universe, what is the name of the island that contains InGen's Site B?",
             "correct_answer": "Isla Sorna",
             "incorrect_answers": [
                 "Isla Nublar",
@@ -1552,7 +1552,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "In what year does Jurassic World open in the &quot;Jurassic Park&quot; universe?",
+            "question": "In what year does Jurassic World open in the 'Jurassic Park' universe?",
             "correct_answer": "2005",
             "incorrect_answers": [
                 "2007",
@@ -1564,7 +1564,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie &quot;Avatar&quot;?",
+            "question": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie 'Avatar'?",
             "correct_answer": "Sigourney Weaver",
             "incorrect_answers": [
                 "Jessica Chastain",
@@ -1576,8 +1576,8 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What Queen song plays during the final fight scene of the film &quot;Hardcore Henry&quot;?",
-            "correct_answer": "Don&#039;t Stop Me Now",
+            "question": "What Queen song plays during the final fight scene of the film 'Hardcore Henry'?",
+            "correct_answer": "Don't Stop Me Now",
             "incorrect_answers": [
                 "Brighton Rock",
                 "Another Bites the Dust",
@@ -1588,7 +1588,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "What is the species of the &quot;Predator&quot; in the 1987 movie &quot;Predator&quot;?",
+            "question": "What is the species of the 'Predator' in the 1987 movie 'Predator'?",
             "correct_answer": "Yautja",
             "incorrect_answers": [
                 "Xenomorph",
@@ -1636,7 +1636,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "In Big Hero 6, what were Baymax&#039;s motions modeled after?",
+            "question": "In Big Hero 6, what were Baymax's motions modeled after?",
             "correct_answer": "Baby penguins",
             "incorrect_answers": [
                 "Baby monkeys",
@@ -1660,7 +1660,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "In the Friday The 13th series, what is Jason&#039;s mother&#039;s first name?",
+            "question": "In the Friday The 13th series, what is Jason's mother's first name?",
             "correct_answer": "Pamela",
             "incorrect_answers": [
                 "Mary",
@@ -1684,11 +1684,11 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Which director directed the movie &quot;Pan&#039;s Labyrinth&quot;?",
+            "question": "Which director directed the movie 'Pan's Labyrinth'?",
             "correct_answer": "Guillermo Del Toro",
             "incorrect_answers": [
-                "Alfonso Cuar&oacute;n",
-                "Alejandro Gonz&aacute;lez I&ntilde;&aacute;rritu",
+                "Alfonso Cuarón",
+                "Alejandro González Iñárritu",
                 " Alejandro Jodorowsky"
             ]
         },
@@ -1696,7 +1696,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What film did James Cameron&#039;s Avatar dethrone as the highest-grossing film ever?",
+            "question": "What film did James Cameron's Avatar dethrone as the highest-grossing film ever?",
             "correct_answer": "Titanic",
             "incorrect_answers": [
                 "Star Wars",
@@ -1720,7 +1720,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "Which 1994 film did Roger Ebert famously despise, saying &quot;I hated hated hated hated hated this movie&quot;.",
+            "question": "Which 1994 film did Roger Ebert famously despise, saying 'I hated hated hated hated hated this movie'.",
             "correct_answer": "North",
             "incorrect_answers": [
                 "3 Ninjas Kick Back",
@@ -1732,7 +1732,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Who performed the opening theme song for the James Bond 007 movie &quot;Goldfinger&quot;?",
+            "question": "Who performed the opening theme song for the James Bond 007 movie 'Goldfinger'?",
             "correct_answer": "Shirley Basey",
             "incorrect_answers": [
                 "Tom Jones",
@@ -1744,7 +1744,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Which musical artist had a prominent role in the 2017 film &quot;Kingsman: The Golden Circle&quot;?",
+            "question": "Which musical artist had a prominent role in the 2017 film 'Kingsman: The Golden Circle'?",
             "correct_answer": "Elton John",
             "incorrect_answers": [
                 "Lady Gaga",
@@ -1756,7 +1756,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "The film Mad Max: Fury Road features the Dies Irae  from which composer&#039;s requiem?",
+            "question": "The film Mad Max: Fury Road features the Dies Irae  from which composer's requiem?",
             "correct_answer": "Verdi",
             "incorrect_answers": [
                 "Mozart",
@@ -1768,7 +1768,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Which actor plays the role of the main antagonist in the 2011 movie &quot;Tower Heist?&quot;",
+            "question": "Which actor plays the role of the main antagonist in the 2011 movie 'Tower Heist?'",
             "correct_answer": "Alan Alda",
             "incorrect_answers": [
                 "Eddie Murphy",
@@ -1792,7 +1792,7 @@
             "category": "Entertainment: Film",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "In Star Wars, what&#039;s the name of the new Government created after the defeat of the Galactic Empire?",
+            "question": "In Star Wars, what's the name of the new Government created after the defeat of the Galactic Empire?",
             "correct_answer": "The New Republic",
             "incorrect_answers": [
                 "The Rebel Alliance",
@@ -1804,7 +1804,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+            "question": "Electronic music producer Kygo's popularity skyrocketed after a certain remix. Which song did he remix?",
             "correct_answer": "Ed Sheeran - I See Fire",
             "incorrect_answers": [
                 "Marvin Gaye - Sexual Healing",
@@ -1841,7 +1841,7 @@
             "type": "multiple",
             "difficulty": "easy",
             "question": "How would one say goodbye in Spanish?",
-            "correct_answer": "Adi&oacute;s",
+            "correct_answer": "Adiós",
             "incorrect_answers": [
                 " Hola",
                 "Au Revoir",
@@ -1888,7 +1888,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+            "question": "The words 'bungalow' and 'shampoo' originate from the languages of which country?",
             "correct_answer": "India",
             "incorrect_answers": [
                 "Papua New Guinea",
@@ -1900,7 +1900,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "When was &quot;YouTube&quot; founded?",
+            "question": "When was 'YouTube' founded?",
             "correct_answer": "February 14, 2005",
             "incorrect_answers": [
                 "May 22, 2004",
@@ -2008,11 +2008,11 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the French word for &quot;hat&quot;?",
+            "question": "What is the French word for 'hat'?",
             "correct_answer": "Chapeau",
             "incorrect_answers": [
                 "Bonnet",
-                " &Eacute;charpe",
+                " Écharpe",
                 " Casque"
             ]
         },
@@ -2020,7 +2020,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "What is the romanized Korean word for &quot;heart&quot;?",
+            "question": "What is the romanized Korean word for 'heart'?",
             "correct_answer": "Simjang",
             "incorrect_answers": [
                 "Aejeong",
@@ -2032,7 +2032,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "What is the romanized Arabic word for &quot;moon&quot;?",
+            "question": "What is the romanized Arabic word for 'moon'?",
             "correct_answer": "Qamar",
             "incorrect_answers": [
                 "Najma",
@@ -2044,7 +2044,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What is the Italian word for &quot;tomato&quot;?",
+            "question": "What is the Italian word for 'tomato'?",
             "correct_answer": "Pomodoro",
             "incorrect_answers": [
                 "Aglio",
@@ -2056,7 +2056,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What is the name of the popular animatronic singing fish prop, singing such hits such as &quot;Don&#039;t Worry, Be Happy&quot;?",
+            "question": "What is the name of the popular animatronic singing fish prop, singing such hits such as 'Don't Worry, Be Happy'?",
             "correct_answer": "Big Mouth Billy Bass",
             "incorrect_answers": [
                 "Big Billy Bass",
@@ -2068,7 +2068,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "Disney&#039;s Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+            "question": "Disney's Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
             "correct_answer": "Harry",
             "incorrect_answers": [
                 "Gus",
@@ -2097,7 +2097,7 @@
             "incorrect_answers": [
                 "Pupcia",
                 "Polszka",
-                "P&oacute;land"
+                "Póland"
             ]
         },
         {
@@ -2116,8 +2116,8 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which restaurant&#039;s mascot is a clown?",
-            "correct_answer": "McDonald&#039;s",
+            "question": "Which restaurant's mascot is a clown?",
+            "correct_answer": "McDonald's",
             "incorrect_answers": [
                 "Whataburger",
                 "Burger King",
@@ -2128,12 +2128,12 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What was Mountain Dew&#039;s original slogan?",
-            "correct_answer": "Yahoo! Mountain Dew... It&#039;ll tickle your innards!",
+            "question": "What was Mountain Dew's original slogan?",
+            "correct_answer": "Yahoo! Mountain Dew... It'll tickle your innards!",
             "incorrect_answers": [
                 "Give Me A Dew",
                 "Do The Dew",
-                "Get&#039; that barefoot feelin&#039; drinkin&#039; Mountain Dew"
+                "Get' that barefoot feelin' drinkin' Mountain Dew"
             ]
         },
         {
@@ -2191,7 +2191,7 @@
             "question": "What is Tasmania?",
             "correct_answer": "An Australian State",
             "incorrect_answers": [
-                "A flavor of Ben and Jerry&#039;s ice-cream",
+                "A flavor of Ben and Jerry's ice-cream",
                 "A Psychological Disorder",
                 "The Name of a Warner Brothers Cartoon Character"
             ]
@@ -2200,7 +2200,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "If someone said &quot;you are olid&quot;, what would they mean?",
+            "question": "If someone said 'you are olid', what would they mean?",
             "correct_answer": "You smell extremely unpleasant.",
             "incorrect_answers": [
                 "You are out of shape/weak.",
@@ -2224,7 +2224,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "Located in Chile, El Teniente is the world&#039;s largest underground mine for what metal?",
+            "question": "Located in Chile, El Teniente is the world's largest underground mine for what metal?",
             "correct_answer": "Copper",
             "incorrect_answers": [
                 "Iron",
@@ -2260,7 +2260,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "What is the closest planet to our solar system&#039;s sun?",
+            "question": "What is the closest planet to our solar system's sun?",
             "correct_answer": "Mercury",
             "incorrect_answers": [
                 "Mars",
@@ -2300,7 +2300,7 @@
             "correct_answer": "First Lord of the Treasury",
             "incorrect_answers": [
                 "Duke of Cambridge",
-                "Her Majesty&#039;s Loyal Opposition",
+                "Her Majesty's Loyal Opposition",
                 "Manager of the Crown Estate"
             ]
         },
@@ -2392,7 +2392,7 @@
             "category": "General Knowledge",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Waluigi&#039;s first appearance was in what game?",
+            "question": "Waluigi's first appearance was in what game?",
             "correct_answer": "Mario Tennis 64 (N64)",
             "incorrect_answers": [
                 "Wario Land: Super Mario Land 3",
@@ -2440,7 +2440,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "What tool lends it&#039;s name to a last-stone advantage in an end in Curling?",
+            "question": "What tool lends it's name to a last-stone advantage in an end in Curling?",
             "correct_answer": "Hammer",
             "incorrect_answers": [
                 "Wrench",
@@ -2476,7 +2476,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What is the nickname of Northampton town&#039;s rugby union club?",
+            "question": "What is the nickname of Northampton town's rugby union club?",
             "correct_answer": "Saints",
             "incorrect_answers": [
                 "Harlequins",
@@ -2488,7 +2488,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which English football club has the nickname &#039;The Foxes&#039;?",
+            "question": "Which English football club has the nickname 'The Foxes'?",
             "correct_answer": "Leicester City",
             "incorrect_answers": [
                 "Northampton Town",
@@ -2541,14 +2541,14 @@
             "incorrect_answers": [
                 "The Showdown (Australia)",
                 "Verstappen on Fire (Germany)",
-                "Schumacher&#039;s Ban (Britain)"
+                "Schumacher's Ban (Britain)"
             ]
         },
         {
             "category": "Sports",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "The Rio 2016 Summer Olympics held it&#039;s closing ceremony on what date?",
+            "question": "The Rio 2016 Summer Olympics held it's closing ceremony on what date?",
             "correct_answer": "August 21",
             "incorrect_answers": [
                 "August 23",
@@ -2656,7 +2656,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "Which Italian footballer told Neuer where he&#039;s putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+            "question": "Which Italian footballer told Neuer where he's putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
             "correct_answer": "Pelle",
             "incorrect_answers": [
                 "Insigne",
@@ -2680,7 +2680,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Which soccer team won the Copa Am&eacute;rica Centenario 2016?",
+            "question": "Which soccer team won the Copa América Centenario 2016?",
             "correct_answer": "Chile",
             "incorrect_answers": [
                 "Argentina",
@@ -2716,7 +2716,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who won the 2016 Formula 1 World Driver&#039;s Championship?",
+            "question": "Who won the 2016 Formula 1 World Driver's Championship?",
             "correct_answer": "Nico Rosberg",
             "incorrect_answers": [
                 "Lewis Hamilton",
@@ -2788,7 +2788,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which boxer was banned for taking a bite out of Evander Holyfield&#039;s ear in 1997?",
+            "question": "Which boxer was banned for taking a bite out of Evander Holyfield's ear in 1997?",
             "correct_answer": "Mike Tyson",
             "incorrect_answers": [
                 "Roy Jones Jr.",
@@ -2824,7 +2824,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "How many French Open&#039;s did Bj&ouml;rn Borg win?",
+            "question": "How many French Open's did Björn Borg win?",
             "correct_answer": "6",
             "incorrect_answers": [
                 "4",
@@ -2896,7 +2896,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who won the 2017 Formula One World Drivers&#039; Championship?",
+            "question": "Who won the 2017 Formula One World Drivers' Championship?",
             "correct_answer": "Lewis Hamilton",
             "incorrect_answers": [
                 "Sebastian Vettel",
@@ -2908,7 +2908,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "What is Tiger Woods&#039; all-time best career golf-score?",
+            "question": "What is Tiger Woods' all-time best career golf-score?",
             "correct_answer": "61",
             "incorrect_answers": [
                 "65",
@@ -2945,18 +2945,18 @@
             "type": "multiple",
             "difficulty": "easy",
             "question": "Which two teams played in Super Bowl XLII?",
-            "correct_answer": "The New York Giants &amp; The New England Patriots",
+            "correct_answer": "The New York Giants and The New England Patriots",
             "incorrect_answers": [
-                "The Green Bay Packers &amp; The Pittsburgh Steelers",
-                "The Philadelphia Eagles &amp; The New England Patriots",
-                "The Seattle Seahawks &amp; The Denver Broncos"
+                "The Green Bay Packers and The Pittsburgh Steelers",
+                "The Philadelphia Eagles and The New England Patriots",
+                "The Seattle Seahawks and The Denver Broncos"
             ]
         },
         {
             "category": "Sports",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "What is &ldquo;The Sport of Kings&rdquo;?",
+            "question": "What is 'The Sport of Kings'?",
             "correct_answer": "Horse Racing",
             "incorrect_answers": [
                 "Chess",
@@ -2980,7 +2980,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "medium",
-            "question": "Which of these countries&#039; national teams qualified for the 2018 FIFA World Cup in Russia?",
+            "question": "Which of these countries' national teams qualified for the 2018 FIFA World Cup in Russia?",
             "correct_answer": "Tunisia",
             "incorrect_answers": [
                 "United States of America",
@@ -2992,7 +2992,7 @@
             "category": "Sports",
             "type": "multiple",
             "difficulty": "hard",
-            "question": "Which English football team is nicknamed &#039;The Tigers&#039;?",
+            "question": "Which English football team is nicknamed 'The Tigers'?",
             "correct_answer": "Hull City",
             "incorrect_answers": [
                 "Cardiff City",
