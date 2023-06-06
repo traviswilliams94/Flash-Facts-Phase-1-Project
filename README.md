@@ -1,3 +1,13 @@
+<!-- WP Notes and Issues 6/6/23: To get around CORS protocol issues that prevented access to the db.json data, I was able to get this to "work" by installing the Live Server extension in VS code and opening the index.html file using that extenstion. That way, it selects and displays a random question from the data without any security issues. 
+
+Next, in order to display the answer choices in a random order, I did some research and learned of an algorithm to handle that (Fisher-Yates Shuffle algorithm).  
+
+Also added an event listener for the "Next Question" button which seems to work just right.
+
+Need to figure out a solution for questions and answers with certain puctuation in the text, eg. quotation marks displaying as "&quot", ampersands as "&amp" and apostrophes as "&#039"...
+
+Lastly, the page seems to refresh at irregular intervals when it's not the actively selected windo. I was trying to add some "preventDefault" functionality to make that stop but was unable and reached my wit's end. -->
+
 Fact Flash is your go-to trivia app for quick and exciting knowledge snippets. Click a button to generate a question (or set of questions) from a range of topics you can select, and submit your answer(s) to see if you are right. Create and submit your own trivia questions to add to the collection.
 
 
