@@ -1,14 +1,13 @@
 // code here
 
 // Fetching the JSON data 
-fetch('db.json')
-    .then(res => res.json())
-    .then(data => {
-        questions = data.questions;
-        generateQuestion();
-    });
 
-function generateQuestion() {
+fetch('http://localhost:3000/questions')
+    .then(res => res.json())
+    .then(questions => generateQuestion(questions)
+    );
+
+function generateQuestion(questions) {
     
     // Randomly selecting a question
     const randomQuestionIndex = Math.floor(Math.random() * questions.length);
@@ -61,3 +60,4 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
+

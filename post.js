@@ -9,6 +9,7 @@ function handleSubmit(e) {
     const form = e.target;
 
     let questionObj = {
+        id: "",
         category:form.category.value,
         question:form.question.value,
         correct_answer:form.CorrectResponse.value,
@@ -21,7 +22,7 @@ function handleSubmit(e) {
 
 //fucntion to POST
 function createNewQuestion(questionObj) {
-    fetch('db.json', {
+    fetch('http://localhost:3000/questions', {
         method: 'POST',
         headers: {
             'Content-Type': 'application/json',
@@ -34,13 +35,5 @@ function createNewQuestion(questionObj) {
     .then(console.log(questionObj))
 };
 
-//event listener for correct and incorrect responses
 
-document.querySelectorAll(responsebutton).addEventListener('click', () => {
-    console.log('i clicked an answer')
-});
-
-// function answerAlerts(){  
-// console.log('i clicked an answer')
-// };
 

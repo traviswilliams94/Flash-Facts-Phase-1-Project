@@ -1,3004 +1,3254 @@
 {
-    "questions": [
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "How many manned moon landings have there been?",
-            "correct_answer": "6",
-            "incorrect_answers": [
-                "1",
-                "3",
-                "7"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What historical event was Tchaikovsky's 1812 Overture referencing?",
-            "correct_answer": "The Napoleonic Wars",
-            "incorrect_answers": [
-                "The American War of 1812",
-                "The Russian Revolution",
-                "The Charge of the Light Brigade (Crimean War)"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "The Spitfire L.F. Mk IX had what engine?",
-            "correct_answer": "Merlin 66",
-            "incorrect_answers": [
-                "Griffon 65",
-                "Merlin 50",
-                "Merlin X"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What number does the Roman numeral 'D' stand for?",
-            "correct_answer": "500",
-            "incorrect_answers": [
-                "100",
-                "1000",
-                "50"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which one of these tanks was designed and operated by the United Kingdom?",
-            "correct_answer": "Tog II",
-            "incorrect_answers": [
-                "M4 Sherman",
-                "Tiger H1",
-                "T-34"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Who was the first explorer to sail to North America?",
-            "correct_answer": "Leif Erikson",
-            "incorrect_answers": [
-                "Christopher Columbus",
-                "Amerigo Vespucci",
-                "Ferdinand Magellan"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which of the following ancient Near Eastern peoples still exists as a modern ethnic group?",
-            "correct_answer": "Assyrians",
-            "incorrect_answers": [
-                "Babylonians",
-                "Hittites",
-                "Elamites"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which of the following battles is often considered as marking the beginning of the fall of the Western Roman Empire?",
-            "correct_answer": "Battle of Adrianople",
-            "incorrect_answers": [
-                "Battle of Thessalonica",
-                "Battle of Pollentia",
-                "Battle of Constantinople"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "List the following Iranic empires in chronological order:",
-            "correct_answer": "Median, Achaemenid, Parthian, Sassanid",
-            "incorrect_answers": [
-                "Median, Achaemenid, Sassanid, Parthian",
-                "Achaemenid, Median, Parthian, Sassanid",
-                "Achaemenid, Median, Sassanid, Parthian"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "The creator of the Enigma Cypher and Machine was of what nationality?",
-            "correct_answer": "German",
-            "incorrect_answers": [
-                "American",
-                "British",
-                "Polish"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What was Manfred von Richthofen's nickname?",
-            "correct_answer": "The Red Baron",
-            "incorrect_answers": [
-                "The High Flying Ace",
-                "The Blue Serpent ",
-                "The Germany Gunner"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "On which day did ARPANET suffer a 4 hour long network crash?",
-            "correct_answer": "October 27, 1980",
-            "incorrect_answers": [
-                "November 21, 1969",
-                "October 29, 1969",
-                "December 9, 1991"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "In which year did the First World War begin?",
-            "correct_answer": "1914",
-            "incorrect_answers": [
-                "1930",
-                "1917",
-                "1939"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "When did the Battle of the Somme begin?",
-            "correct_answer": "July 1st, 1916",
-            "incorrect_answers": [
-                "August 1st, 1916",
-                "July 2nd, 1916",
-                "June 30th, 1916"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "When did the Battle of the Bulge end?",
-            "correct_answer": "January 25, 1945",
-            "incorrect_answers": [
-                "August 6, 1945",
-                "December 7, 1941",
-                "December 16, 1944"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Who tutored Alexander the Great?",
-            "correct_answer": "Aristotle",
-            "incorrect_answers": [
-                "Socrates",
-                "Plato",
-                "King Philip"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Adolf Hitler was born on which date?",
-            "correct_answer": "April 20, 1889",
-            "incorrect_answers": [
-                "June 12, 1889",
-                "February 6, 1889",
-                "April 16, 1889"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "In which year did the Tokyo Subway Sarin Attack occur?",
-            "correct_answer": "1995",
-            "incorrect_answers": [
-                "2001",
-                "2011",
-                "1991"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "The Hagia Sophia was commissioned by which emperor of the Byzantine Empire?",
-            "correct_answer": "Justinian I",
-            "incorrect_answers": [
-                "Constantine IV",
-                "Arcadius",
-                "Theodosius the Great"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which building was set aflame on August 24th, 1812?",
-            "correct_answer": "The White House",
-            "incorrect_answers": [
-                "Parliament Building",
-                "Grand National Assembly Building",
-                "Palace of the Nation"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What year is considered to be the year that the British Empire ended?",
-            "correct_answer": "1997",
-            "incorrect_answers": [
-                "1986",
-                "1981",
-                "1971"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "The Battle of Hastings was fought in which year?",
-            "correct_answer": "1066",
-            "incorrect_answers": [
-                "911",
-                "1204",
-                "1420"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What was the bloodiest single-day battle during the American Civil War?",
-            "correct_answer": "The Battle of Antietam",
-            "incorrect_answers": [
-                "The Siege of Vicksburg",
-                "The Battle of Gettysburg",
-                "The Battles of Chancellorsville"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What was the total length of the Titanic?",
-            "correct_answer": "882 ft | 268.8 m",
-            "incorrect_answers": [
-                "759 ft | 231.3 m",
-                "1042 ft | 317.6 m",
-                "825 ft | 251.5 m"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which Las Vegas casino was originally constructed and operated by mobster Bugsy Siegel?",
-            "correct_answer": "The Flamingo",
-            "incorrect_answers": [
-                "The MGM Grand",
-                "The Sands",
-                "The Sahara"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The 'Trail of Tears' was a result of which United States President's Indian Removal Policy?",
-            "correct_answer": "Andrew Jackson",
-            "incorrect_answers": [
-                "Harry S. Truman",
-                "Martin Van Buren",
-                "John Quincy Adams"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What year did Australia become a federation?",
-            "correct_answer": "1901",
-            "incorrect_answers": [
-                "1910",
-                "1899",
-                "1911"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "In which year was Constantinople conquered by the Turks?",
-            "correct_answer": "1453",
-            "incorrect_answers": [
-                "1435",
-                "1454",
-                "1440"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "In what year did Kentucky become the 15th state to join the union?",
-            "correct_answer": "1792",
-            "incorrect_answers": [
-                "1782",
-                "1798",
-                "1788"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "When was the 'Siege of Leningrad' lifted during World War II?",
-            "correct_answer": "January 1944",
-            "incorrect_answers": [
-                "September 1943",
-                "November 1943",
-                "March 1944"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "In 1961, an American B-52 aircraft crashed and nearly detonated two 4mt nuclear bombs over which US city?",
-            "correct_answer": "Goldsboro, North Carolina",
-            "incorrect_answers": [
-                "Hicksville, New York",
-                "Jacksonville, Florida",
-                "Conway, Arkansas"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which country gifted the Statue of Liberty to the United States of America?",
-            "correct_answer": "France",
-            "incorrect_answers": [
-                "Spain",
-                "England",
-                "Germany"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which day did World War I begin?",
-            "correct_answer": "July 28",
-            "incorrect_answers": [
-                "January 28",
-                "June 28",
-                "April 28"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?",
-            "correct_answer": "Californian",
-            "incorrect_answers": [
-                "Carpathia",
-                "Cristol",
-                "Commerce"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "When did construction of the Suez Canal finish?",
-            "correct_answer": "1869",
-            "incorrect_answers": [
-                "1859",
-                "1860",
-                "1850"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Before the American colonies switched to the Gregorian calendar in 1752, on what date did their new year start?",
-            "correct_answer": "March 25th",
-            "incorrect_answers": [
-                "June 1st",
-                "September 25th",
-                "December 1st"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which of the following Presidents of the United States was assassinated?",
-            "correct_answer": "William McKinley",
-            "incorrect_answers": [
-                "Lyndon Johnson",
-                "Chester Arthur",
-                "Franklin Roosevelt"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Who crowned Charlemagne as Holy Roman Emperor on Christmas Day in 800?",
-            "correct_answer": "Pope Leo III",
-            "incorrect_answers": [
-                "Pope Urban IV",
-                "Pope Stephen V",
-                "Pope Valentine"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In 1453, which important city fell?",
-            "correct_answer": "Constantinople",
-            "incorrect_answers": [
-                "Rome",
-                "Hamburg",
-                "Athens"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "In 1845, a series of wars named after which indigenous people began in New Zealand?",
-            "correct_answer": "Māori",
-            "incorrect_answers": [
-                "Papuans",
-                "Aborigines",
-                "Polynesians"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which U.S. President was in office when the Gulf War began?",
-            "correct_answer": "George H. W. Bush",
-            "incorrect_answers": [
-                "Richard Nixon",
-                "George W. Bush ",
-                "Ronald Regan"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which of the following is not in the Indo-European language family?",
-            "correct_answer": "Finnish",
-            "incorrect_answers": [
-                "English",
-                "Hindi",
-                "Russian"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which Louis was known as 'The Sun King of France'?",
-            "correct_answer": "Louis XIV",
-            "incorrect_answers": [
-                "Louis XIII",
-                "Louis XV",
-                "Louis XVI"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "When did O, Canada officially become the national anthem?",
-            "correct_answer": "1980",
-            "incorrect_answers": [
-                "1950",
-                "1920",
-                "1880"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which U.S. president was said to have been too honest to lie to his father about chopping down a cherry tree?",
-            "correct_answer": "George Washington",
-            "incorrect_answers": [
-                "Abraham Lincoln",
-                "Thomas Jefferson",
-                "James Monroe"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "The son of which pope supposedly held a lecherous fête involving 50 courtesans in the papal palace?",
-            "correct_answer": "Alexander VI",
-            "incorrect_answers": [
-                "Innocent V",
-                "Urban II",
-                "Pius III"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "The ontological argument for the proof of God's existence is first attributed to whom?",
-            "correct_answer": "Anselm of Canterbury",
-            "incorrect_answers": [
-                "René Descartes",
-                "Immanuel Kant",
-                "Aristotle"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What was the name of the chemical that was dropped on Vietnam during the Vietnam war?",
-            "correct_answer": "Agent Orange",
-            "incorrect_answers": [
-                "Phosgene",
-                "Mustard Gas",
-                "Hydrogen Cyanide"
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which Nazi General was known as the 'Desert Fox'?",
-            "correct_answer": "Erwin Rommel",
-            "incorrect_answers": [
-                "Gerd von Rundstadt",
-                "Wilhelm Keitel",
-                "Heinz Guderian "
-            ]
-        },
-        {
-            "category": "History",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which Roman Emperor led the Roman Empire to reach its maximum territorial extent?",
-            "correct_answer": "Trajan",
-            "incorrect_answers": [
-                "Julius Caesar",
-                "Claudius",
-                "Constantine the Great"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the colour of unoxidized blood?",
-            "correct_answer": "Red",
-            "incorrect_answers": [
-                "Blue",
-                "Purple",
-                "Green"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the largest animal currently on Earth?",
-            "correct_answer": "Blue Whale",
-            "incorrect_answers": [
-                "Orca",
-                "Colossal Squid",
-                "Giraffe"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "How many objects are equivalent to one mole?",
-            "correct_answer": "6.022 x 10^23",
-            "incorrect_answers": [
-                "6.002 x 10^22",
-                "6.022 x 10^22",
-                "6.002 x 10^23"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
-            "correct_answer": "Uranus",
-            "incorrect_answers": [
-                "Jupiter",
-                "Venus",
-                "Neptune"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which is the longest bone in the human body? ",
-            "correct_answer": "Femur",
-            "incorrect_answers": [
-                "Scapula",
-                "Fibula",
-                "Ulna"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "In aeronautics, flaps and slats are used to control what on an aircraft?",
-            "correct_answer": "Lift",
-            "incorrect_answers": [
-                "Thrust",
-                "Drag",
-                "Weight "
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the 'powerhouse' of the Eukaryotic animal cell?",
-            "correct_answer": "Mitochondria",
-            "incorrect_answers": [
-                "Nucleus",
-                "Chloroplast",
-                "Endoplasmic Reticulum"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "How many planets are in our Solar System?",
-            "correct_answer": "Eight",
-            "incorrect_answers": [
-                "Nine",
-                "Seven",
-                "Ten"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Gannymede is the largest moon of which planet?",
-            "correct_answer": "Jupiter",
-            "incorrect_answers": [
-                "Uranus",
-                "Neptune",
-                "Mars"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which element has the atomic number of 7?",
-            "correct_answer": "Nitrogen",
-            "incorrect_answers": [
-                "Oxygen",
-                "Hydrogen",
-                "Neon"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Au on the Periodic Table refers to which element?",
-            "correct_answer": "Gold",
-            "incorrect_answers": [
-                "Silver",
-                "Oxygen",
-                "Nickel"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the primary addictive substance found in tobacco?",
-            "correct_answer": "Nicotine",
-            "incorrect_answers": [
-                "Cathinone",
-                "Ephedrine",
-                "Glaucine"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Alzheimer's disease primarily affects which part of the human body?",
-            "correct_answer": "Brain",
-            "incorrect_answers": [
-                "Lungs",
-                "Skin",
-                "Heart"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the chemical formula for ammonia?",
-            "correct_answer": "NH3",
-            "incorrect_answers": [
-                "CO2",
-                "NO3",
-                "CH4"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which of these chemical compounds is NOT found in gastric acid?",
-            "correct_answer": "Sulfuric acid",
-            "incorrect_answers": [
-                "Hydrochloric acid",
-                "Potassium chloride",
-                "Sodium chloride"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What is the scientific name of the red fox?",
-            "correct_answer": "Vulpes Vulpes",
-            "incorrect_answers": [
-                "Vulpes Redus",
-                "Red Fox",
-                "Vulpes Vulpie"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What does DNA stand for?",
-            "correct_answer": "Deoxyribonucleic Acid",
-            "incorrect_answers": [
-                "Deoxyribogenetic Acid",
-                "Deoxyribogenetic Atoms",
-                "Detoxic Acid"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Where did the dog breed 'Chihuahua' originate?",
-            "correct_answer": "Mexico",
-            "incorrect_answers": [
-                "France",
-                "Spain",
-                "Russia"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which is not a type of neuron?",
-            "correct_answer": "Perceptual Neuron",
-            "incorrect_answers": [
-                "Sensory Neuron",
-                "Motor Neuron",
-                "Interneuron"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who is the chemical element Curium named after?",
-            "correct_answer": "Marie and Pierre Curie",
-            "incorrect_answers": [
-                "The Curiosity Rover",
-                "Curious George",
-                "Stephen Curry"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which of the following is NOT a real element?",
-            "correct_answer": "Vitrainium",
-            "incorrect_answers": [
-                "Praseodymium",
-                "Hassium",
-                "Lutetium"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "'The Big Bang Theory' was first theorized by a priest of what religious ideology?",
-            "correct_answer": "Catholic",
-            "incorrect_answers": [
-                "Christian",
-                "Jewish",
-                "Islamic"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The human heart has how many chambers?",
-            "correct_answer": "4",
-            "incorrect_answers": [
-                "2",
-                "6",
-                "3"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which is the most abundant element in the universe?",
-            "correct_answer": "Hydrogen",
-            "incorrect_answers": [
-                "Helium",
-                "Lithium",
-                "Oxygen"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The medical term for the belly button is which of the following?",
-            "correct_answer": "Umbilicus",
-            "incorrect_answers": [
-                "Nevus",
-                "Nares",
-                "Paxillus"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
-            "correct_answer": "The presence or absence of a nucleus",
-            "incorrect_answers": [
-                "The overall size",
-                "The presence or absence of certain organelles",
-                "The mode of reproduction"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which element has the highest melting point?",
-            "correct_answer": "Carbon",
-            "incorrect_answers": [
-                "Tungsten",
-                "Platinum",
-                "Osmium"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "About how old is Earth?",
-            "correct_answer": "4.5 Billion Years",
-            "incorrect_answers": [
-                "3.5 Billion Years",
-                "2.5 Billion Years",
-                "5.5 Billion Years"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What does the term 'isolation' refer to in microbiology?",
-            "correct_answer": "The separation of a strain from a natural, mixed population of living microbes",
-            "incorrect_answers": [
-                "A lack of nutrition in microenviroments",
-                "The nitrogen level in soil",
-                "Testing effects of certain microorganisms in an isolated enviroments, such as caves"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "How much radiation does a banana emit?",
-            "correct_answer": "0.1 Microsievert",
-            "incorrect_answers": [
-                "0.3 Microsievert",
-                "0.5 Microsievert",
-                "0.7 Microsievert"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What is the unit of electrical inductance?",
-            "correct_answer": "Henry",
-            "incorrect_answers": [
-                "Weber",
-                "Coulomb",
-                "Mho"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What animal takes part in Schrödinger's most famous thought experiment?",
-            "correct_answer": "Cat",
-            "incorrect_answers": [
-                "Dog",
-                "Bat",
-                "Butterfly"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "On which mission did the Space Shuttle Columbia break up upon re-entry?",
-            "correct_answer": "STS-107",
-            "incorrect_answers": [
-                "STS-51-L",
-                "STS-61-C",
-                "STS-109"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Approximately how long is a year on Uranus?",
-            "correct_answer": "84 Earth years",
-            "incorrect_answers": [
-                "47 Earth years",
-                "62 Earth years",
-                "109 Earth years"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which chemical element was originally known as Alabamine?",
-            "correct_answer": "Astatine",
-            "incorrect_answers": [
-                "Selenium",
-                "Antimony",
-                "Molybdenum"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the speed of light in a vacuum?",
-            "correct_answer": "299,792,458 m/s",
-            "incorrect_answers": [
-                "50,461 m/s",
-                "308,215,043 m/s",
-                "751,665,014,151 m/s"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which noble gas has the lowest atomic number?",
-            "correct_answer": "Helium",
-            "incorrect_answers": [
-                "Neon",
-                "Argon",
-                "Krypton"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "In human biology, a circadium rhythm relates to a period of roughly how many hours?",
-            "correct_answer": "24",
-            "incorrect_answers": [
-                "8",
-                "16",
-                "32"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "An organism described as 'heliotropic' has a tendancy to move towards which of these things?",
-            "correct_answer": "Light",
-            "incorrect_answers": [
-                "Water",
-                "Trees",
-                "Pollen"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Where did the Great Storm of 1987 make landfall at, first?",
-            "correct_answer": "Cornwall",
-            "incorrect_answers": [
-                "Surrey",
-                "Wales",
-                "The Midlands"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the Linnean name of the domestic apple tree?",
-            "correct_answer": "Malus pumila",
-            "incorrect_answers": [
-                "Malus americana",
-                "Pomus domestica",
-                "Appelus delectica"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "The word 'science' stems from the word 'scire' meaning what?",
-            "correct_answer": "To know",
-            "incorrect_answers": [
-                "To measure",
-                "To live",
-                "To count"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Dry ice is the solid form of what substance?",
-            "correct_answer": "Carbon dioxide",
-            "incorrect_answers": [
-                "Nitrogen",
-                "Ammonia",
-                "Oxygen"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What was the first organic compound to be synthesized from inorganic compounds?",
-            "correct_answer": "Urea",
-            "incorrect_answers": [
-                "Propane",
-                "Ethanol",
-                "Formaldehyde"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which of the following elements is typically used in the doping of the semiconductor silicon?",
-            "correct_answer": "Boron",
-            "incorrect_answers": [
-                "Oxygen",
-                "Carbon",
-                "Iron"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
-            "correct_answer": "Shepard Tone",
-            "incorrect_answers": [
-                "Glissandro Illusion",
-                "Fransen Effect",
-                "McGurck Effect"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What are the smallest blood vessels in the human body?",
-            "correct_answer": "Capillaries",
-            "incorrect_answers": [
-                "Arterioles",
-                "Veinules",
-                "Lymphatics"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What causes the sound of a heartbeat?",
-            "correct_answer": "Closure of the heart valves",
-            "incorrect_answers": [
-                "Contraction of the heart chambers",
-                "Blood exiting the heart",
-                "Relaxation of the heart chambers"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "In the Scoville scale, what is the hottest chemical?",
-            "correct_answer": "Resiniferatoxin",
-            "incorrect_answers": [
-                "Capsaicin",
-                "Dihydrocapsaicin",
-                "Tinyatoxin"
-            ]
-        },
-        {
-            "category": "Science & Nature",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "How old is the universe?",
-            "correct_answer": "13.8 Billion Years",
-            "incorrect_answers": [
-                "4.5 Billion Years",
-                "7.9 Billion Years",
-                "16.2 Billion Years"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which of the following is not the name of a 'Bond Girl'? ",
-            "correct_answer": "Vanessa Kensington",
-            "incorrect_answers": [
-                "Pam Bouvier",
-                "Mary Goodnight",
-                "Wai Lin"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who starred as Bruce Wayne and Batman in Tim Burton's 1989 movie 'Batman'?",
-            "correct_answer": "Michael Keaton",
-            "incorrect_answers": [
-                "George Clooney",
-                "Val Kilmer",
-                "Adam West"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who directed 'E.T. the Extra-Terrestrial' (1982)?",
-            "correct_answer": "Steven Spielberg",
-            "incorrect_answers": [
-                "Stanley Kubrick",
-                "James Cameron",
-                "Tim Burton"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which animated movie was first to feature a celebrity as a voice actor?",
-            "correct_answer": "Aladdin",
-            "incorrect_answers": [
-                "Toy Story",
-                "James and the Giant Peach",
-                "The Hunchback of Notre Dame"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "When was the movie 'Con Air' released?",
-            "correct_answer": "1997",
-            "incorrect_answers": [
-                "1985",
-                "1999",
-                "1990"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "In the film 'Interstellar', how long did they spend on Miller's planet?",
-            "correct_answer": "23 years, 4 months, and 8 days",
-            "incorrect_answers": [
-                "15 years, 2 months, and 15 days",
-                "10 months and 6 days",
-                "26 years, 4 months, and 10 days"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "In the 1976 film 'Taxi Driver', how many guns did Travis buy from the salesman?",
-            "correct_answer": "4",
-            "incorrect_answers": [
-                "2",
-                "6",
-                "1"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "In the 1984 movie 'The Terminator', what model number is the Terminator portrayed by Arnold Schwarzenegger?",
-            "correct_answer": "T-800",
-            "incorrect_answers": [
-                "I-950",
-                "T-888",
-                "T-1000"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What was Dorothy's surname in 'The Wizard Of Oz'?",
-            "correct_answer": "Gale",
-            "incorrect_answers": [
-                "Perkins",
-                "Day",
-                "Parker"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the name of the dog that played Toto in the 1939 film 'The Wizard of Oz'?",
-            "correct_answer": "Terry",
-            "incorrect_answers": [
-                "Tommy",
-                "Teddy",
-                "Toto"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the name of the Artificial Intelligence system in the 1983 film, 'WarGames'?",
-            "correct_answer": "War Operation Plan Response",
-            "incorrect_answers": [
-                "Self Evolving Thought Helix",
-                "Master Control Program",
-                "West Campus Analog Computer"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What did the first moving picture depict?",
-            "correct_answer": "A galloping horse",
-            "incorrect_answers": [
-                "A woman in a dress",
-                "A man walking",
-                "A crackling fire"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "In 2012, which movie won every category in the 32nd 'Golden Raspberry Awards'?",
-            "correct_answer": "Jack and Jill",
-            "incorrect_answers": [
-                "The Girl with the Dragon Tattoo",
-                "Thor",
-                "The King's Speech"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the name of the villian in the 2015 Russian-American Sci-Fi Movie 'Hardcore Henry'?",
-            "correct_answer": "Akan",
-            "incorrect_answers": [
-                "Estelle",
-                "Jimmy",
-                "Henry"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Who played Baron Victor Frankestein in the 1957 Hammer horror film 'The Curse of Frankenstein'?",
-            "correct_answer": "Peter Cushing",
-            "incorrect_answers": [
-                "Boris Karloff",
-                "Vincent Price",
-                "Lon Chaney Jr."
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?",
-            "correct_answer": "Jackie Earle Haley",
-            "incorrect_answers": [
-                "Tyler Mane",
-                "Derek Mears",
-                "Gunnar Hansen"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which one of these films are shot entirely in one-take?",
-            "correct_answer": "Russian Ark",
-            "incorrect_answers": [
-                "Good Will Hunting",
-                "Birdman",
-                "Schindler's List"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "In the movie 'Scream' who is Ghost Face?",
-            "correct_answer": "Billy Loomis and Stu Macher",
-            "incorrect_answers": [
-                "Dewey Riley",
-                "Sidney Prescott",
-                "Archie Prescott and Philip Marv"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The 2002 film '28 Days Later' is mainly set in which European country?",
-            "correct_answer": "United Kingdom",
-            "incorrect_answers": [
-                "France",
-                "Italy",
-                "Germany"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In the movie 'Spaceballs', what are the Spaceballs attempting to steal from Planet Druidia?",
-            "correct_answer": "Air",
-            "incorrect_answers": [
-                "The Schwartz",
-                "Princess Lonestar",
-                "Meatballs"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
-            "correct_answer": "October 21, 2015",
-            "incorrect_answers": [
-                "August 28, 2015",
-                "July 20, 2015",
-                "January 25, 2015"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What was the first monster to appear alongside Godzilla?",
-            "correct_answer": "Anguirus",
-            "incorrect_answers": [
-                "King Kong",
-                "Mothra",
-                "King Ghidora"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What year did the James Cameron film 'Titanic' come out in theaters?",
-            "correct_answer": "1997",
-            "incorrect_answers": [
-                "1996",
-                "1998",
-                "1999"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In the movie Gremlins, after what time of day should you not feed Mogwai?",
-            "correct_answer": "Midnight",
-            "incorrect_answers": [
-                "Evening",
-                "Morning",
-                "Afternoon"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "When does 'Rogue One: A Star Wars Story' take place chronologically in the series?",
-            "correct_answer": "Between Episode 3 and 4",
-            "incorrect_answers": [
-                "After Episode 6",
-                "Before Episode 1",
-                "Between Episode 4 and 5"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?",
-            "correct_answer": "Atreyu",
-            "incorrect_answers": [
-                "Atrayu",
-                "Atraiyu",
-                "Atraeyu"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Mark Wahlberg played the titular character of which 2008 video-game adaptation?",
-            "correct_answer": "Max Payne",
-            "incorrect_answers": [
-                "Alan Wake",
-                "Hitman",
-                "God Of War"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the name of the island that 'Jurassic Park' is built on?",
-            "correct_answer": "Isla Nublar",
-            "incorrect_answers": [
-                "Isla Sorna",
-                "Isla Muerta",
-                "Isla Pena"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "In the 'Jurassic Park' universe, what is the name of the island that contains InGen's Site B?",
-            "correct_answer": "Isla Sorna",
-            "incorrect_answers": [
-                "Isla Nublar",
-                "Isla Pena",
-                "Isla Muerta"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "In what year does Jurassic World open in the 'Jurassic Park' universe?",
-            "correct_answer": "2005",
-            "incorrect_answers": [
-                "2007",
-                "2015",
-                "2020"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie 'Avatar'?",
-            "correct_answer": "Sigourney Weaver",
-            "incorrect_answers": [
-                "Jessica Chastain",
-                "Melissa Beckett",
-                "Alyssa Monroe "
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What Queen song plays during the final fight scene of the film 'Hardcore Henry'?",
-            "correct_answer": "Don't Stop Me Now",
-            "incorrect_answers": [
-                "Brighton Rock",
-                "Another Bites the Dust",
-                "We Will Rock You"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What is the species of the 'Predator' in the 1987 movie 'Predator'?",
-            "correct_answer": "Yautja",
-            "incorrect_answers": [
-                "Xenomorph",
-                "Praetorian",
-                "Phocrex"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",
-            "correct_answer": "Dave",
-            "incorrect_answers": [
-                "John",
-                "Will",
-                "Carl"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which town is the setting for the Disney movie The Love Bug (1968)?",
-            "correct_answer": "San Francisco",
-            "incorrect_answers": [
-                "Los Angeles",
-                "Sacramento",
-                "San Jose"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What character in the Winnie the Pooh films was added by Disney and does not appear in the original books?",
-            "correct_answer": "Gopher",
-            "incorrect_answers": [
-                "Tigger",
-                "Heffalumps",
-                "Rabbit"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "In Big Hero 6, what were Baymax's motions modeled after?",
-            "correct_answer": "Baby penguins",
-            "incorrect_answers": [
-                "Baby monkeys",
-                "Baby ostriches",
-                "Baby bears"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In Big Hero 6, what fictional city is the Big Hero 6 from?",
-            "correct_answer": "San Fransokyo",
-            "incorrect_answers": [
-                "San Tokyo",
-                "Tokysisco",
-                "Sankyo"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "In the Friday The 13th series, what is Jason's mother's first name?",
-            "correct_answer": "Pamela",
-            "incorrect_answers": [
-                "Mary",
-                "Christine",
-                "Angeline"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "In the Friday The 13th series, what year did Jason drown in?",
-            "correct_answer": "1957",
-            "incorrect_answers": [
-                "1955",
-                "1953",
-                "1959"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which director directed the movie 'Pan's Labyrinth'?",
-            "correct_answer": "Guillermo Del Toro",
-            "incorrect_answers": [
-                "Alfonso Cuarón",
-                "Alejandro González Iñárritu",
-                " Alejandro Jodorowsky"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What film did James Cameron's Avatar dethrone as the highest-grossing film ever?",
-            "correct_answer": "Titanic",
-            "incorrect_answers": [
-                "Star Wars",
-                "Gone with the Wind",
-                "Jaws"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which of these Movies was NOT released in 1996?",
-            "correct_answer": "Gladiator",
-            "incorrect_answers": [
-                "Independence Day",
-                "The Rock",
-                "Mission: Impossible"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which 1994 film did Roger Ebert famously despise, saying 'I hated hated hated hated hated this movie'.",
-            "correct_answer": "North",
-            "incorrect_answers": [
-                "3 Ninjas Kick Back",
-                "The Santa Clause",
-                "Richie Rich"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Who performed the opening theme song for the James Bond 007 movie 'Goldfinger'?",
-            "correct_answer": "Shirley Basey",
-            "incorrect_answers": [
-                "Tom Jones",
-                "John Barry",
-                "Sheena Easton"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which musical artist had a prominent role in the 2017 film 'Kingsman: The Golden Circle'?",
-            "correct_answer": "Elton John",
-            "incorrect_answers": [
-                "Lady Gaga",
-                "Rihanna",
-                "Justin Bieber"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "The film Mad Max: Fury Road features the Dies Irae  from which composer's requiem?",
-            "correct_answer": "Verdi",
-            "incorrect_answers": [
-                "Mozart",
-                "Berlioz",
-                "Brahms"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which actor plays the role of the main antagonist in the 2011 movie 'Tower Heist?'",
-            "correct_answer": "Alan Alda",
-            "incorrect_answers": [
-                "Eddie Murphy",
-                "Alec Baldwin",
-                "Kevin Nealon"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which of these films is NOT set in Los Angeles?",
-            "correct_answer": "RoboCop",
-            "incorrect_answers": [
-                "Blade Runner",
-                "The Terminator",
-                "Predator 2"
-            ]
-        },
-        {
-            "category": "Entertainment: Film",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "In Star Wars, what's the name of the new Government created after the defeat of the Galactic Empire?",
-            "correct_answer": "The New Republic",
-            "incorrect_answers": [
-                "The Rebel Alliance",
-                "The Crimson Dawn",
-                "The First Order"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Electronic music producer Kygo's popularity skyrocketed after a certain remix. Which song did he remix?",
-            "correct_answer": "Ed Sheeran - I See Fire",
-            "incorrect_answers": [
-                "Marvin Gaye - Sexual Healing",
-                "Coldplay - Midnight",
-                "a-ha - Take On Me"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which river flows through the Scottish city of Glasgow?",
-            "correct_answer": "Clyde",
-            "incorrect_answers": [
-                "Tay",
-                "Dee",
-                "Tweed"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "A doctor with a PhD is a doctor of what?",
-            "correct_answer": "Philosophy",
-            "incorrect_answers": [
-                "Psychology",
-                "Phrenology",
-                "Physical Therapy"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "How would one say goodbye in Spanish?",
-            "correct_answer": "Adiós",
-            "incorrect_answers": [
-                " Hola",
-                "Au Revoir",
-                "Salir"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the largest organ of the human body?",
-            "correct_answer": "Skin",
-            "incorrect_answers": [
-                "Heart",
-                "large Intestine",
-                "Liver"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which sign of the zodiac is represented by the Crab?",
-            "correct_answer": "Cancer",
-            "incorrect_answers": [
-                "Libra",
-                "Virgo",
-                "Sagittarius"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which language is NOT Indo-European?",
-            "correct_answer": "Hungarian",
-            "incorrect_answers": [
-                "Russian",
-                "Greek",
-                "Latvian"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "The words 'bungalow' and 'shampoo' originate from the languages of which country?",
-            "correct_answer": "India",
-            "incorrect_answers": [
-                "Papua New Guinea",
-                "Ethiopia",
-                "China"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "When was 'YouTube' founded?",
-            "correct_answer": "February 14, 2005",
-            "incorrect_answers": [
-                "May 22, 2004",
-                "September 12, 2005",
-                "July 19, 2009"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "How many colors are there in a rainbow?",
-            "correct_answer": "7",
-            "incorrect_answers": [
-                "8",
-                "9",
-                "10"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What year was Queen Elizabeth II born?",
-            "correct_answer": "1926",
-            "incorrect_answers": [
-                "1923",
-                "1929",
-                "1930"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which of the following is not another name for the eggplant?",
-            "correct_answer": "Potimarron",
-            "incorrect_answers": [
-                "Brinjal",
-                "Guinea Squash",
-                "Melongene"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which of the following chemicals are found in eggplant seeds?",
-            "correct_answer": "Nicotine",
-            "incorrect_answers": [
-                "Mescaline",
-                "Cyanide",
-                "Psilocybin"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Who is a co-founder of music streaming service Spotify?",
-            "correct_answer": "Daniel Ek",
-            "incorrect_answers": [
-                "Sean Parker",
-                "Felix Miller",
-                "Michael Breidenbruecker"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Sciophobia is the fear of what?",
-            "correct_answer": "Shadows",
-            "incorrect_answers": [
-                "Eating",
-                "Bright lights",
-                "Transportation"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What alcoholic drink is mainly made from juniper berries?",
-            "correct_answer": "Gin",
-            "incorrect_answers": [
-                "Vodka",
-                "Rum",
-                "Tequila"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
-            "correct_answer": "Fiat",
-            "incorrect_answers": [
-                "Maserati",
-                "Alfa Romeo",
-                "Ferrari"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the French word for 'hat'?",
-            "correct_answer": "Chapeau",
-            "incorrect_answers": [
-                "Bonnet",
-                " Écharpe",
-                " Casque"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What is the romanized Korean word for 'heart'?",
-            "correct_answer": "Simjang",
-            "incorrect_answers": [
-                "Aejeong",
-                "Jeongsin",
-                "Segseu"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What is the romanized Arabic word for 'moon'?",
-            "correct_answer": "Qamar",
-            "incorrect_answers": [
-                "Najma",
-                "Kawkab",
-                "Shams"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the Italian word for 'tomato'?",
-            "correct_answer": "Pomodoro",
-            "incorrect_answers": [
-                "Aglio",
-                "Cipolla",
-                "Peperoncino"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the name of the popular animatronic singing fish prop, singing such hits such as 'Don't Worry, Be Happy'?",
-            "correct_answer": "Big Mouth Billy Bass",
-            "incorrect_answers": [
-                "Big Billy Bass",
-                "Singing Fish",
-                "Sardeen"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Disney's Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
-            "correct_answer": "Harry",
-            "incorrect_answers": [
-                "Gus",
-                "Phineas",
-                "Ezra"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is a dead mall?",
-            "correct_answer": "A mall with high vacancy rates or low consumer foot traffic",
-            "incorrect_answers": [
-                "A mall with no stores",
-                "A mall that has been condemed",
-                "A mall after business hours"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the name of Poland in Polish?",
-            "correct_answer": "Polska",
-            "incorrect_answers": [
-                "Pupcia",
-                "Polszka",
-                "Póland"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
-            "correct_answer": "Center Parcs",
-            "incorrect_answers": [
-                "Yelloh Village",
-                "Keycamp",
-                "Villa Plus"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which restaurant's mascot is a clown?",
-            "correct_answer": "McDonald's",
-            "incorrect_answers": [
-                "Whataburger",
-                "Burger King",
-                "Sonic"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What was Mountain Dew's original slogan?",
-            "correct_answer": "Yahoo! Mountain Dew... It'll tickle your innards!",
-            "incorrect_answers": [
-                "Give Me A Dew",
-                "Do The Dew",
-                "Get' that barefoot feelin' drinkin' Mountain Dew"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What year was the RoboSapien toy robot released?",
-            "correct_answer": "2004",
-            "incorrect_answers": [
-                "2000",
-                "2001",
-                "2006"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Where does water from Poland Spring water bottles come from?",
-            "correct_answer": "Maine, United States",
-            "incorrect_answers": [
-                "Hesse, Germany",
-                "Masovia, Poland",
-                "Bavaria, Poland"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
-            "correct_answer": "28%",
-            "incorrect_answers": [
-                "13%",
-                "20%",
-                "7%"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
-            "correct_answer": "Hewlett-Packard",
-            "incorrect_answers": [
-                "Toshiba",
-                "Asus",
-                "Dell"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is Tasmania?",
-            "correct_answer": "An Australian State",
-            "incorrect_answers": [
-                "A flavor of Ben and Jerry's ice-cream",
-                "A Psychological Disorder",
-                "The Name of a Warner Brothers Cartoon Character"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "If someone said 'you are olid', what would they mean?",
-            "correct_answer": "You smell extremely unpleasant.",
-            "incorrect_answers": [
-                "You are out of shape/weak.",
-                "Your appearance is repulsive.",
-                "You are incomprehensible/an idiot."
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
-            "correct_answer": "Thomas Jefferson",
-            "incorrect_answers": [
-                "Martin Van Buren",
-                "Ulysses Grant",
-                "John Quincy Adams"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Located in Chile, El Teniente is the world's largest underground mine for what metal?",
-            "correct_answer": "Copper",
-            "incorrect_answers": [
-                "Iron",
-                "Nickel",
-                "Silver"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The Flag of the European Union has how many stars on it?",
-            "correct_answer": "12",
-            "incorrect_answers": [
-                "10",
-                "14",
-                "16"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "How many furlongs are there in a mile?",
-            "correct_answer": "Eight",
-            "incorrect_answers": [
-                "Two",
-                "Four",
-                "Six"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the closest planet to our solar system's sun?",
-            "correct_answer": "Mercury",
-            "incorrect_answers": [
-                "Mars",
-                "Jupiter",
-                "Earth"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Earth is located in which galaxy?",
-            "correct_answer": "The Milky Way Galaxy",
-            "incorrect_answers": [
-                "The Mars Galaxy",
-                "The Galaxy Note",
-                "The Black Hole"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What are Panama hats made out of?",
-            "correct_answer": "Straw",
-            "incorrect_answers": [
-                "Silk",
-                "Hemp",
-                "Flax"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the full title of the Prime Minister of the UK?",
-            "correct_answer": "First Lord of the Treasury",
-            "incorrect_answers": [
-                "Duke of Cambridge",
-                "Her Majesty's Loyal Opposition",
-                "Manager of the Crown Estate"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Foie gras is a French delicacy typically made from what part of a duck or goose?",
-            "correct_answer": "Liver",
-            "incorrect_answers": [
-                "Heart",
-                "Stomach",
-                "Intestines"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which of the following is not the host of a program on NPR?",
-            "correct_answer": "Ben Shapiro",
-            "incorrect_answers": [
-                "Terry Gross",
-                "Ira Glass",
-                "Peter Sagal"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which of the following is not an Ivy League University?",
-            "correct_answer": "Stanford",
-            "incorrect_answers": [
-                "University of Pennsylvania",
-                "Harvard",
-                "Princeton"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
-            "correct_answer": "Ad hominem",
-            "incorrect_answers": [
-                "Post hoc ergo propter hoc",
-                "Tu quoque",
-                "Argumentum ad populum"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Frank Lloyd Wright was the architect behind what famous building?",
-            "correct_answer": "The Guggenheim",
-            "incorrect_answers": [
-                "Villa Savoye",
-                "Sydney Opera House",
-                "The Space Needle"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?",
-            "correct_answer": "Helicopter",
-            "incorrect_answers": [
-                "Stealth Blimp",
-                "Jet",
-                "Space Capsule"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who invented the first ever chocolate bar, in 1847?",
-            "correct_answer": "Joseph Fry",
-            "incorrect_answers": [
-                "Andrew Johnson",
-                "John Cadbury",
-                "John Tyler"
-            ]
-        },
-        {
-            "category": "General Knowledge",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Waluigi's first appearance was in what game?",
-            "correct_answer": "Mario Tennis 64 (N64)",
-            "incorrect_answers": [
-                "Wario Land: Super Mario Land 3",
-                "Mario Party (N64)",
-                "Super Smash Bros. Ultimate"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "At which bridge does the annual Oxford and Cambridge boat race start?",
-            "correct_answer": "Putney",
-            "incorrect_answers": [
-                "Hammersmith",
-                "Vauxhall ",
-                "Battersea"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
-            "correct_answer": "Nine",
-            "incorrect_answers": [
-                "Ten",
-                "Seven",
-                "Eight"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?",
-            "correct_answer": "Jordan",
-            "incorrect_answers": [
-                "Benetton",
-                "Ferrari",
-                "Mercedes"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What tool lends it's name to a last-stone advantage in an end in Curling?",
-            "correct_answer": "Hammer",
-            "incorrect_answers": [
-                "Wrench",
-                "Drill",
-                "Screwdriver"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In golf, what name is given to a hole score of two under par?",
-            "correct_answer": "Eagle",
-            "incorrect_answers": [
-                "Birdie",
-                "Bogey",
-                "Albatross"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Who was the British professional wrestler Shirley Crabtree better known as?",
-            "correct_answer": "Big Daddy",
-            "incorrect_answers": [
-                "Giant Haystacks",
-                "Kendo Nagasaki",
-                "Masambula"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the nickname of Northampton town's rugby union club?",
-            "correct_answer": "Saints",
-            "incorrect_answers": [
-                "Harlequins",
-                "Saracens",
-                "Wasps"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which English football club has the nickname 'The Foxes'?",
-            "correct_answer": "Leicester City",
-            "incorrect_answers": [
-                "Northampton Town",
-                "Bradford City",
-                "West Bromwich Albion"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which team won the 2015-16 English Premier League?",
-            "correct_answer": "Leicester City",
-            "incorrect_answers": [
-                "Liverpool",
-                "Cheslea",
-                "Manchester United"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "A stimpmeter measures the speed of a ball over what surface?",
-            "correct_answer": "Golf Putting Green",
-            "incorrect_answers": [
-                " Football Pitch",
-                "Cricket Outfield",
-                "Pinball Table"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In baseball, how many fouls are an out?",
-            "correct_answer": "0",
-            "incorrect_answers": [
-                "5",
-                "3",
-                "2"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "The F1 season of 1994 is remembered for what tragic event?",
-            "correct_answer": "Death of Ayrton Senna (San Marino)",
-            "incorrect_answers": [
-                "The Showdown (Australia)",
-                "Verstappen on Fire (Germany)",
-                "Schumacher's Ban (Britain)"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The Rio 2016 Summer Olympics held it's closing ceremony on what date?",
-            "correct_answer": "August 21",
-            "incorrect_answers": [
-                "August 23",
-                "August 19",
-                "August 17"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which country has hosted the 2018 FIFA World Cup?",
-            "correct_answer": "Russia",
-            "incorrect_answers": [
-                "Germany",
-                "United States",
-                "Saudi Arabia"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which country is hosting the 2022 FIFA World Cup?",
-            "correct_answer": "Qatar",
-            "incorrect_answers": [
-                "Uganda",
-                "Vietnam",
-                "Bolivia"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
-            "correct_answer": "7 - 1",
-            "incorrect_answers": [
-                "0 - 1",
-                "3 - 4",
-                "16 - 0"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which team was the 2015-2016 NBA Champions?",
-            "correct_answer": "Cleveland Cavaliers",
-            "incorrect_answers": [
-                "Golden State Warriors",
-                "Toronto Raptors",
-                "Oklahoma City Thunders"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which team was the 2014-2015 NBA Champions?",
-            "correct_answer": "Golden State Warriors",
-            "incorrect_answers": [
-                "Cleveland Cavaliers",
-                "Houston Rockets",
-                "Atlanta Hawks"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Where was the Games of the XXII Olympiad held?",
-            "correct_answer": "Moscow",
-            "incorrect_answers": [
-                "Barcelona",
-                "Tokyo",
-                "Los Angeles"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Josh Mansour is part of what NRL team?",
-            "correct_answer": "Penrith Panthers",
-            "incorrect_answers": [
-                "Melbourne Storm",
-                "Sydney Roosters",
-                "North Queensland Cowboys"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
-            "correct_answer": "Mazda",
-            "incorrect_answers": [
-                "Toyota",
-                "Subaru",
-                "Nissan"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which Italian footballer told Neuer where he's putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
-            "correct_answer": "Pelle",
-            "incorrect_answers": [
-                "Insigne",
-                "Barzagli",
-                "Giaccherini"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
-            "correct_answer": "DING Ning (China)",
-            "incorrect_answers": [
-                "LI Xiaoxia (China)",
-                "Ai FUKUHARA (Japan)",
-                "Song KIM (North Korea)"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which soccer team won the Copa América Centenario 2016?",
-            "correct_answer": "Chile",
-            "incorrect_answers": [
-                "Argentina",
-                "Brazil",
-                "Colombia"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which team won 2014 FIFA World Cup in Brazil?",
-            "correct_answer": "Germany",
-            "incorrect_answers": [
-                "Argentina",
-                "Brazil",
-                "Netherlands"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "How many points did LeBron James score in his first NBA game?",
-            "correct_answer": "25",
-            "incorrect_answers": [
-                "19",
-                "69",
-                "41"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who won the 2016 Formula 1 World Driver's Championship?",
-            "correct_answer": "Nico Rosberg",
-            "incorrect_answers": [
-                "Lewis Hamilton",
-                "Max Verstappen",
-                "Kimi Raikkonen"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the oldest team in the NFL?",
-            "correct_answer": "Arizona Cardinals",
-            "incorrect_answers": [
-                "Chicago Bears",
-                "Green Bay Packers",
-                "New York Giants"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is the oldest team in Major League Baseball?",
-            "correct_answer": "Atlanta Braves",
-            "incorrect_answers": [
-                "Chicago Cubs",
-                "Cincinnati Reds",
-                "St. Louis Cardinals"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Why was The Green Monster at Fenway Park was originally built?",
-            "correct_answer": "To prevent viewing games from outside the park.",
-            "incorrect_answers": [
-                "To make getting home runs harder.",
-                "To display advertisements.",
-                "To provide extra seating."
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
-            "correct_answer": "American Football",
-            "incorrect_answers": [
-                "Wrestling",
-                "Archery",
-                "Horse-Racing"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "When was the first official international game played?",
-            "correct_answer": "1872",
-            "incorrect_answers": [
-                "1880",
-                "1863",
-                "1865"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which boxer was banned for taking a bite out of Evander Holyfield's ear in 1997?",
-            "correct_answer": "Mike Tyson",
-            "incorrect_answers": [
-                "Roy Jones Jr.",
-                "Evander Holyfield",
-                "Lennox Lewis"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What team did England beat to win in the 1966 World Cup final?",
-            "correct_answer": "West Germany",
-            "incorrect_answers": [
-                "Soviet Union",
-                "Portugal",
-                "Brazil"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
-            "correct_answer": "Portugal",
-            "incorrect_answers": [
-                "West Germany",
-                "Soviet Union",
-                "Brazil"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "How many French Open's did Björn Borg win?",
-            "correct_answer": "6",
-            "incorrect_answers": [
-                "4",
-                "9",
-                "2"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?",
-            "correct_answer": "13",
-            "incorrect_answers": [
-                "11",
-                "20",
-                "22"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who won the premier league title in the 2015-2016 season following a fairy tale run?",
-            "correct_answer": "Leicester City",
-            "incorrect_answers": [
-                "Tottenham Hotspur",
-                "Watford",
-                "Stoke City"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who did Steven Gerrard win the Champions League with?",
-            "correct_answer": "Liverpool",
-            "incorrect_answers": [
-                "Real Madrid",
-                "Chelsea",
-                "Man City"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "The Los Angeles Dodgers were originally from what U.S. city?",
-            "correct_answer": "Brooklyn",
-            "incorrect_answers": [
-                "Las Vegas",
-                "Boston",
-                "Seattle"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Who was the topscorer for England national football team?",
-            "correct_answer": "Wayne Rooney",
-            "incorrect_answers": [
-                "David Beckham",
-                "Steven Gerrard",
-                "Michael Owen"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who won the 2017 Formula One World Drivers' Championship?",
-            "correct_answer": "Lewis Hamilton",
-            "incorrect_answers": [
-                "Sebastian Vettel",
-                "Nico Rosberg",
-                "Max Verstappen"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "What is Tiger Woods' all-time best career golf-score?",
-            "correct_answer": "61",
-            "incorrect_answers": [
-                "65",
-                "63",
-                "67"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who won the UEFA Champions League in 2017?",
-            "correct_answer": "Real Madrid C.F.",
-            "incorrect_answers": [
-                "Atletico Madrid",
-                "AS Monaco FC",
-                "Juventus F.C."
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "In the 2014 FIFA World Cup, what was the final score in the match Brazil - Germany?",
-            "correct_answer": "1-7",
-            "incorrect_answers": [
-                "1-5",
-                "1-6",
-                "2-6"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which two teams played in Super Bowl XLII?",
-            "correct_answer": "The New York Giants and The New England Patriots",
-            "incorrect_answers": [
-                "The Green Bay Packers and The Pittsburgh Steelers",
-                "The Philadelphia Eagles and The New England Patriots",
-                "The Seattle Seahawks and The Denver Broncos"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "What is 'The Sport of Kings'?",
-            "correct_answer": "Horse Racing",
-            "incorrect_answers": [
-                "Chess",
-                "Jousting",
-                "Fencing"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which NBA player has the most games played over the course of their career?",
-            "correct_answer": "Robert Parish",
-            "incorrect_answers": [
-                "Kareem Abdul-Jabbar",
-                "Kevin Garnett",
-                "Kobe Bryant"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "medium",
-            "question": "Which of these countries' national teams qualified for the 2018 FIFA World Cup in Russia?",
-            "correct_answer": "Tunisia",
-            "incorrect_answers": [
-                "United States of America",
-                "Italy",
-                "Netherlands"
-            ]
-        },
-        {
-            "category": "Sports",
-            "type": "multiple",
-            "difficulty": "hard",
-            "question": "Which English football team is nicknamed 'The Tigers'?",
-            "correct_answer": "Hull City",
-            "incorrect_answers": [
-                "Cardiff City",
-                "Bristol City",
-                "Manchester City"
-            ]
-        }
-    ]
+  "questions": [
+    {
+      "id": 1,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many manned moon landings have there been?",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "1",
+        "3",
+        "7"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What historical event was Tchaikovsky's 1812 Overture referencing?",
+      "correct_answer": "The Napoleonic Wars",
+      "incorrect_answers": [
+        "The American War of 1812",
+        "The Russian Revolution",
+        "The Charge of the Light Brigade (Crimean War)"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The Spitfire L.F. Mk IX had what engine?",
+      "correct_answer": "Merlin 66",
+      "incorrect_answers": [
+        "Griffon 65",
+        "Merlin 50",
+        "Merlin X"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What number does the Roman numeral 'D' stand for?",
+      "correct_answer": "500",
+      "incorrect_answers": [
+        "100",
+        "1000",
+        "50"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which one of these tanks was designed and operated by the United Kingdom?",
+      "correct_answer": "Tog II",
+      "incorrect_answers": [
+        "M4 Sherman",
+        "Tiger H1",
+        "T-34"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the first explorer to sail to North America?",
+      "correct_answer": "Leif Erikson",
+      "incorrect_answers": [
+        "Christopher Columbus",
+        "Amerigo Vespucci",
+        "Ferdinand Magellan"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following ancient Near Eastern peoples still exists as a modern ethnic group?",
+      "correct_answer": "Assyrians",
+      "incorrect_answers": [
+        "Babylonians",
+        "Hittites",
+        "Elamites"
+      ]
+    },
+    {
+      "id": 8,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following battles is often considered as marking the beginning of the fall of the Western Roman Empire?",
+      "correct_answer": "Battle of Adrianople",
+      "incorrect_answers": [
+        "Battle of Thessalonica",
+        "Battle of Pollentia",
+        "Battle of Constantinople"
+      ]
+    },
+    {
+      "id": 9,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "List the following Iranic empires in chronological order:",
+      "correct_answer": "Median, Achaemenid, Parthian, Sassanid",
+      "incorrect_answers": [
+        "Median, Achaemenid, Sassanid, Parthian",
+        "Achaemenid, Median, Parthian, Sassanid",
+        "Achaemenid, Median, Sassanid, Parthian"
+      ]
+    },
+    {
+      "id": 10,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The creator of the Enigma Cypher and Machine was of what nationality?",
+      "correct_answer": "German",
+      "incorrect_answers": [
+        "American",
+        "British",
+        "Polish"
+      ]
+    },
+    {
+      "id": 11,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was Manfred von Richthofen's nickname?",
+      "correct_answer": "The Red Baron",
+      "incorrect_answers": [
+        "The High Flying Ace",
+        "The Blue Serpent ",
+        "The Germany Gunner"
+      ]
+    },
+    {
+      "id": 12,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "On which day did ARPANET suffer a 4 hour long network crash?",
+      "correct_answer": "October 27, 1980",
+      "incorrect_answers": [
+        "November 21, 1969",
+        "October 29, 1969",
+        "December 9, 1991"
+      ]
+    },
+    {
+      "id": 13,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which year did the First World War begin?",
+      "correct_answer": "1914",
+      "incorrect_answers": [
+        "1930",
+        "1917",
+        "1939"
+      ]
+    },
+    {
+      "id": 14,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When did the Battle of the Somme begin?",
+      "correct_answer": "July 1st, 1916",
+      "incorrect_answers": [
+        "August 1st, 1916",
+        "July 2nd, 1916",
+        "June 30th, 1916"
+      ]
+    },
+    {
+      "id": 15,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did the Battle of the Bulge end?",
+      "correct_answer": "January 25, 1945",
+      "incorrect_answers": [
+        "August 6, 1945",
+        "December 7, 1941",
+        "December 16, 1944"
+      ]
+    },
+    {
+      "id": 16,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who tutored Alexander the Great?",
+      "correct_answer": "Aristotle",
+      "incorrect_answers": [
+        "Socrates",
+        "Plato",
+        "King Philip"
+      ]
+    },
+    {
+      "id": 17,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Adolf Hitler was born on which date?",
+      "correct_answer": "April 20, 1889",
+      "incorrect_answers": [
+        "June 12, 1889",
+        "February 6, 1889",
+        "April 16, 1889"
+      ]
+    },
+    {
+      "id": 18,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In which year did the Tokyo Subway Sarin Attack occur?",
+      "correct_answer": "1995",
+      "incorrect_answers": [
+        "2001",
+        "2011",
+        "1991"
+      ]
+    },
+    {
+      "id": 19,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The Hagia Sophia was commissioned by which emperor of the Byzantine Empire?",
+      "correct_answer": "Justinian I",
+      "incorrect_answers": [
+        "Constantine IV",
+        "Arcadius",
+        "Theodosius the Great"
+      ]
+    },
+    {
+      "id": 20,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which building was set aflame on August 24th, 1812?",
+      "correct_answer": "The White House",
+      "incorrect_answers": [
+        "Parliament Building",
+        "Grand National Assembly Building",
+        "Palace of the Nation"
+      ]
+    },
+    {
+      "id": 21,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What year is considered to be the year that the British Empire ended?",
+      "correct_answer": "1997",
+      "incorrect_answers": [
+        "1986",
+        "1981",
+        "1971"
+      ]
+    },
+    {
+      "id": 22,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The Battle of Hastings was fought in which year?",
+      "correct_answer": "1066",
+      "incorrect_answers": [
+        "911",
+        "1204",
+        "1420"
+      ]
+    },
+    {
+      "id": 23,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the bloodiest single-day battle during the American Civil War?",
+      "correct_answer": "The Battle of Antietam",
+      "incorrect_answers": [
+        "The Siege of Vicksburg",
+        "The Battle of Gettysburg",
+        "The Battles of Chancellorsville"
+      ]
+    },
+    {
+      "id": 24,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the total length of the Titanic?",
+      "correct_answer": "882 ft | 268.8 m",
+      "incorrect_answers": [
+        "759 ft | 231.3 m",
+        "1042 ft | 317.6 m",
+        "825 ft | 251.5 m"
+      ]
+    },
+    {
+      "id": 25,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which Las Vegas casino was originally constructed and operated by mobster Bugsy Siegel?",
+      "correct_answer": "The Flamingo",
+      "incorrect_answers": [
+        "The MGM Grand",
+        "The Sands",
+        "The Sahara"
+      ]
+    },
+    {
+      "id": 26,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The 'Trail of Tears' was a result of which United States President's Indian Removal Policy?",
+      "correct_answer": "Andrew Jackson",
+      "incorrect_answers": [
+        "Harry S. Truman",
+        "Martin Van Buren",
+        "John Quincy Adams"
+      ]
+    },
+    {
+      "id": 27,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What year did Australia become a federation?",
+      "correct_answer": "1901",
+      "incorrect_answers": [
+        "1910",
+        "1899",
+        "1911"
+      ]
+    },
+    {
+      "id": 28,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In which year was Constantinople conquered by the Turks?",
+      "correct_answer": "1453",
+      "incorrect_answers": [
+        "1435",
+        "1454",
+        "1440"
+      ]
+    },
+    {
+      "id": 29,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In what year did Kentucky become the 15th state to join the union?",
+      "correct_answer": "1792",
+      "incorrect_answers": [
+        "1782",
+        "1798",
+        "1788"
+      ]
+    },
+    {
+      "id": 30,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "When was the 'Siege of Leningrad' lifted during World War II?",
+      "correct_answer": "January 1944",
+      "incorrect_answers": [
+        "September 1943",
+        "November 1943",
+        "March 1944"
+      ]
+    },
+    {
+      "id": 31,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In 1961, an American B-52 aircraft crashed and nearly detonated two 4mt nuclear bombs over which US city?",
+      "correct_answer": "Goldsboro, North Carolina",
+      "incorrect_answers": [
+        "Hicksville, New York",
+        "Jacksonville, Florida",
+        "Conway, Arkansas"
+      ]
+    },
+    {
+      "id": 32,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which country gifted the Statue of Liberty to the United States of America?",
+      "correct_answer": "France",
+      "incorrect_answers": [
+        "Spain",
+        "England",
+        "Germany"
+      ]
+    },
+    {
+      "id": 33,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which day did World War I begin?",
+      "correct_answer": "July 28",
+      "incorrect_answers": [
+        "January 28",
+        "June 28",
+        "April 28"
+      ]
+    },
+    {
+      "id": 34,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?",
+      "correct_answer": "Californian",
+      "incorrect_answers": [
+        "Carpathia",
+        "Cristol",
+        "Commerce"
+      ]
+    },
+    {
+      "id": 35,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did construction of the Suez Canal finish?",
+      "correct_answer": "1869",
+      "incorrect_answers": [
+        "1859",
+        "1860",
+        "1850"
+      ]
+    },
+    {
+      "id": 36,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Before the American colonies switched to the Gregorian calendar in 1752, on what date did their new year start?",
+      "correct_answer": "March 25th",
+      "incorrect_answers": [
+        "June 1st",
+        "September 25th",
+        "December 1st"
+      ]
+    },
+    {
+      "id": 37,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following Presidents of the United States was assassinated?",
+      "correct_answer": "William McKinley",
+      "incorrect_answers": [
+        "Lyndon Johnson",
+        "Chester Arthur",
+        "Franklin Roosevelt"
+      ]
+    },
+    {
+      "id": 38,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who crowned Charlemagne as Holy Roman Emperor on Christmas Day in 800?",
+      "correct_answer": "Pope Leo III",
+      "incorrect_answers": [
+        "Pope Urban IV",
+        "Pope Stephen V",
+        "Pope Valentine"
+      ]
+    },
+    {
+      "id": 39,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In 1453, which important city fell?",
+      "correct_answer": "Constantinople",
+      "incorrect_answers": [
+        "Rome",
+        "Hamburg",
+        "Athens"
+      ]
+    },
+    {
+      "id": 40,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In 1845, a series of wars named after which indigenous people began in New Zealand?",
+      "correct_answer": "Māori",
+      "incorrect_answers": [
+        "Papuans",
+        "Aborigines",
+        "Polynesians"
+      ]
+    },
+    {
+      "id": 41,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which U.S. President was in office when the Gulf War began?",
+      "correct_answer": "George H. W. Bush",
+      "incorrect_answers": [
+        "Richard Nixon",
+        "George W. Bush ",
+        "Ronald Regan"
+      ]
+    },
+    {
+      "id": 42,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following is not in the Indo-European language family?",
+      "correct_answer": "Finnish",
+      "incorrect_answers": [
+        "English",
+        "Hindi",
+        "Russian"
+      ]
+    },
+    {
+      "id": 43,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which Louis was known as 'The Sun King of France'?",
+      "correct_answer": "Louis XIV",
+      "incorrect_answers": [
+        "Louis XIII",
+        "Louis XV",
+        "Louis XVI"
+      ]
+    },
+    {
+      "id": 44,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did O, Canada officially become the national anthem?",
+      "correct_answer": "1980",
+      "incorrect_answers": [
+        "1950",
+        "1920",
+        "1880"
+      ]
+    },
+    {
+      "id": 45,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which U.S. president was said to have been too honest to lie to his father about chopping down a cherry tree?",
+      "correct_answer": "George Washington",
+      "incorrect_answers": [
+        "Abraham Lincoln",
+        "Thomas Jefferson",
+        "James Monroe"
+      ]
+    },
+    {
+      "id": 46,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The son of which pope supposedly held a lecherous fête involving 50 courtesans in the papal palace?",
+      "correct_answer": "Alexander VI",
+      "incorrect_answers": [
+        "Innocent V",
+        "Urban II",
+        "Pius III"
+      ]
+    },
+    {
+      "id": 47,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The ontological argument for the proof of God's existence is first attributed to whom?",
+      "correct_answer": "Anselm of Canterbury",
+      "incorrect_answers": [
+        "René Descartes",
+        "Immanuel Kant",
+        "Aristotle"
+      ]
+    },
+    {
+      "id": 48,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the name of the chemical that was dropped on Vietnam during the Vietnam war?",
+      "correct_answer": "Agent Orange",
+      "incorrect_answers": [
+        "Phosgene",
+        "Mustard Gas",
+        "Hydrogen Cyanide"
+      ]
+    },
+    {
+      "id": 49,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which Nazi General was known as the 'Desert Fox'?",
+      "correct_answer": "Erwin Rommel",
+      "incorrect_answers": [
+        "Gerd von Rundstadt",
+        "Wilhelm Keitel",
+        "Heinz Guderian "
+      ]
+    },
+    {
+      "id": 50,
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which Roman Emperor led the Roman Empire to reach its maximum territorial extent?",
+      "correct_answer": "Trajan",
+      "incorrect_answers": [
+        "Julius Caesar",
+        "Claudius",
+        "Constantine the Great"
+      ]
+    },
+    {
+      "id": 51,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the colour of unoxidized blood?",
+      "correct_answer": "Red",
+      "incorrect_answers": [
+        "Blue",
+        "Purple",
+        "Green"
+      ]
+    },
+    {
+      "id": 52,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the largest animal currently on Earth?",
+      "correct_answer": "Blue Whale",
+      "incorrect_answers": [
+        "Orca",
+        "Colossal Squid",
+        "Giraffe"
+      ]
+    },
+    {
+      "id": 53,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many objects are equivalent to one mole?",
+      "correct_answer": "6.022 x 10^23",
+      "incorrect_answers": [
+        "6.002 x 10^22",
+        "6.022 x 10^22",
+        "6.002 x 10^23"
+      ]
+    },
+    {
+      "id": 54,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+      "correct_answer": "Uranus",
+      "incorrect_answers": [
+        "Jupiter",
+        "Venus",
+        "Neptune"
+      ]
+    },
+    {
+      "id": 55,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which is the longest bone in the human body? ",
+      "correct_answer": "Femur",
+      "incorrect_answers": [
+        "Scapula",
+        "Fibula",
+        "Ulna"
+      ]
+    },
+    {
+      "id": 56,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In aeronautics, flaps and slats are used to control what on an aircraft?",
+      "correct_answer": "Lift",
+      "incorrect_answers": [
+        "Thrust",
+        "Drag",
+        "Weight "
+      ]
+    },
+    {
+      "id": 57,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the 'powerhouse' of the Eukaryotic animal cell?",
+      "correct_answer": "Mitochondria",
+      "incorrect_answers": [
+        "Nucleus",
+        "Chloroplast",
+        "Endoplasmic Reticulum"
+      ]
+    },
+    {
+      "id": 58,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many planets are in our Solar System?",
+      "correct_answer": "Eight",
+      "incorrect_answers": [
+        "Nine",
+        "Seven",
+        "Ten"
+      ]
+    },
+    {
+      "id": 59,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Gannymede is the largest moon of which planet?",
+      "correct_answer": "Jupiter",
+      "incorrect_answers": [
+        "Uranus",
+        "Neptune",
+        "Mars"
+      ]
+    },
+    {
+      "id": 60,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which element has the atomic number of 7?",
+      "correct_answer": "Nitrogen",
+      "incorrect_answers": [
+        "Oxygen",
+        "Hydrogen",
+        "Neon"
+      ]
+    },
+    {
+      "id": 61,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Au on the Periodic Table refers to which element?",
+      "correct_answer": "Gold",
+      "incorrect_answers": [
+        "Silver",
+        "Oxygen",
+        "Nickel"
+      ]
+    },
+    {
+      "id": 62,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the primary addictive substance found in tobacco?",
+      "correct_answer": "Nicotine",
+      "incorrect_answers": [
+        "Cathinone",
+        "Ephedrine",
+        "Glaucine"
+      ]
+    },
+    {
+      "id": 63,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Alzheimer's disease primarily affects which part of the human body?",
+      "correct_answer": "Brain",
+      "incorrect_answers": [
+        "Lungs",
+        "Skin",
+        "Heart"
+      ]
+    },
+    {
+      "id": 64,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the chemical formula for ammonia?",
+      "correct_answer": "NH3",
+      "incorrect_answers": [
+        "CO2",
+        "NO3",
+        "CH4"
+      ]
+    },
+    {
+      "id": 65,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these chemical compounds is NOT found in gastric acid?",
+      "correct_answer": "Sulfuric acid",
+      "incorrect_answers": [
+        "Hydrochloric acid",
+        "Potassium chloride",
+        "Sodium chloride"
+      ]
+    },
+    {
+      "id": 66,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the scientific name of the red fox?",
+      "correct_answer": "Vulpes Vulpes",
+      "incorrect_answers": [
+        "Vulpes Redus",
+        "Red Fox",
+        "Vulpes Vulpie"
+      ]
+    },
+    {
+      "id": 67,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does DNA stand for?",
+      "correct_answer": "Deoxyribonucleic Acid",
+      "incorrect_answers": [
+        "Deoxyribogenetic Acid",
+        "Deoxyribogenetic Atoms",
+        "Detoxic Acid"
+      ]
+    },
+    {
+      "id": 68,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Where did the dog breed 'Chihuahua' originate?",
+      "correct_answer": "Mexico",
+      "incorrect_answers": [
+        "France",
+        "Spain",
+        "Russia"
+      ]
+    },
+    {
+      "id": 69,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which is not a type of neuron?",
+      "correct_answer": "Perceptual Neuron",
+      "incorrect_answers": [
+        "Sensory Neuron",
+        "Motor Neuron",
+        "Interneuron"
+      ]
+    },
+    {
+      "id": 70,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who is the chemical element Curium named after?",
+      "correct_answer": "Marie and Pierre Curie",
+      "incorrect_answers": [
+        "The Curiosity Rover",
+        "Curious George",
+        "Stephen Curry"
+      ]
+    },
+    {
+      "id": 71,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following is NOT a real element?",
+      "correct_answer": "Vitrainium",
+      "incorrect_answers": [
+        "Praseodymium",
+        "Hassium",
+        "Lutetium"
+      ]
+    },
+    {
+      "id": 72,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "'The Big Bang Theory' was first theorized by a priest of what religious ideology?",
+      "correct_answer": "Catholic",
+      "incorrect_answers": [
+        "Christian",
+        "Jewish",
+        "Islamic"
+      ]
+    },
+    {
+      "id": 73,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The human heart has how many chambers?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "2",
+        "6",
+        "3"
+      ]
+    },
+    {
+      "id": 74,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which is the most abundant element in the universe?",
+      "correct_answer": "Hydrogen",
+      "incorrect_answers": [
+        "Helium",
+        "Lithium",
+        "Oxygen"
+      ]
+    },
+    {
+      "id": 75,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The medical term for the belly button is which of the following?",
+      "correct_answer": "Umbilicus",
+      "incorrect_answers": [
+        "Nevus",
+        "Nares",
+        "Paxillus"
+      ]
+    },
+    {
+      "id": 76,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
+      "correct_answer": "The presence or absence of a nucleus",
+      "incorrect_answers": [
+        "The overall size",
+        "The presence or absence of certain organelles",
+        "The mode of reproduction"
+      ]
+    },
+    {
+      "id": 77,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which element has the highest melting point?",
+      "correct_answer": "Carbon",
+      "incorrect_answers": [
+        "Tungsten",
+        "Platinum",
+        "Osmium"
+      ]
+    },
+    {
+      "id": 78,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "About how old is Earth?",
+      "correct_answer": "4.5 Billion Years",
+      "incorrect_answers": [
+        "3.5 Billion Years",
+        "2.5 Billion Years",
+        "5.5 Billion Years"
+      ]
+    },
+    {
+      "id": 79,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What does the term 'isolation' refer to in microbiology?",
+      "correct_answer": "The separation of a strain from a natural, mixed population of living microbes",
+      "incorrect_answers": [
+        "A lack of nutrition in microenviroments",
+        "The nitrogen level in soil",
+        "Testing effects of certain microorganisms in an isolated enviroments, such as caves"
+      ]
+    },
+    {
+      "id": 80,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How much radiation does a banana emit?",
+      "correct_answer": "0.1 Microsievert",
+      "incorrect_answers": [
+        "0.3 Microsievert",
+        "0.5 Microsievert",
+        "0.7 Microsievert"
+      ]
+    },
+    {
+      "id": 81,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the unit of electrical inductance?",
+      "correct_answer": "Henry",
+      "incorrect_answers": [
+        "Weber",
+        "Coulomb",
+        "Mho"
+      ]
+    },
+    {
+      "id": 82,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What animal takes part in Schrödinger's most famous thought experiment?",
+      "correct_answer": "Cat",
+      "incorrect_answers": [
+        "Dog",
+        "Bat",
+        "Butterfly"
+      ]
+    },
+    {
+      "id": 83,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On which mission did the Space Shuttle Columbia break up upon re-entry?",
+      "correct_answer": "STS-107",
+      "incorrect_answers": [
+        "STS-51-L",
+        "STS-61-C",
+        "STS-109"
+      ]
+    },
+    {
+      "id": 84,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Approximately how long is a year on Uranus?",
+      "correct_answer": "84 Earth years",
+      "incorrect_answers": [
+        "47 Earth years",
+        "62 Earth years",
+        "109 Earth years"
+      ]
+    },
+    {
+      "id": 85,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which chemical element was originally known as Alabamine?",
+      "correct_answer": "Astatine",
+      "incorrect_answers": [
+        "Selenium",
+        "Antimony",
+        "Molybdenum"
+      ]
+    },
+    {
+      "id": 86,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the speed of light in a vacuum?",
+      "correct_answer": "299,792,458 m/s",
+      "incorrect_answers": [
+        "50,461 m/s",
+        "308,215,043 m/s",
+        "751,665,014,151 m/s"
+      ]
+    },
+    {
+      "id": 87,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which noble gas has the lowest atomic number?",
+      "correct_answer": "Helium",
+      "incorrect_answers": [
+        "Neon",
+        "Argon",
+        "Krypton"
+      ]
+    },
+    {
+      "id": 88,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In human biology, a circadium rhythm relates to a period of roughly how many hours?",
+      "correct_answer": "24",
+      "incorrect_answers": [
+        "8",
+        "16",
+        "32"
+      ]
+    },
+    {
+      "id": 89,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "An organism described as 'heliotropic' has a tendancy to move towards which of these things?",
+      "correct_answer": "Light",
+      "incorrect_answers": [
+        "Water",
+        "Trees",
+        "Pollen"
+      ]
+    },
+    {
+      "id": 90,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Where did the Great Storm of 1987 make landfall at, first?",
+      "correct_answer": "Cornwall",
+      "incorrect_answers": [
+        "Surrey",
+        "Wales",
+        "The Midlands"
+      ]
+    },
+    {
+      "id": 91,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the Linnean name of the domestic apple tree?",
+      "correct_answer": "Malus pumila",
+      "incorrect_answers": [
+        "Malus americana",
+        "Pomus domestica",
+        "Appelus delectica"
+      ]
+    },
+    {
+      "id": 92,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The word 'science' stems from the word 'scire' meaning what?",
+      "correct_answer": "To know",
+      "incorrect_answers": [
+        "To measure",
+        "To live",
+        "To count"
+      ]
+    },
+    {
+      "id": 93,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Dry ice is the solid form of what substance?",
+      "correct_answer": "Carbon dioxide",
+      "incorrect_answers": [
+        "Nitrogen",
+        "Ammonia",
+        "Oxygen"
+      ]
+    },
+    {
+      "id": 94,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the first organic compound to be synthesized from inorganic compounds?",
+      "correct_answer": "Urea",
+      "incorrect_answers": [
+        "Propane",
+        "Ethanol",
+        "Formaldehyde"
+      ]
+    },
+    {
+      "id": 95,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following elements is typically used in the doping of the semiconductor silicon?",
+      "correct_answer": "Boron",
+      "incorrect_answers": [
+        "Oxygen",
+        "Carbon",
+        "Iron"
+      ]
+    },
+    {
+      "id": 96,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the name for the auditory illusion of a note that seems to be rising infinitely?",
+      "correct_answer": "Shepard Tone",
+      "incorrect_answers": [
+        "Glissandro Illusion",
+        "Fransen Effect",
+        "McGurck Effect"
+      ]
+    },
+    {
+      "id": 97,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What are the smallest blood vessels in the human body?",
+      "correct_answer": "Capillaries",
+      "incorrect_answers": [
+        "Arterioles",
+        "Veinules",
+        "Lymphatics"
+      ]
+    },
+    {
+      "id": 98,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What causes the sound of a heartbeat?",
+      "correct_answer": "Closure of the heart valves",
+      "incorrect_answers": [
+        "Contraction of the heart chambers",
+        "Blood exiting the heart",
+        "Relaxation of the heart chambers"
+      ]
+    },
+    {
+      "id": 99,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Scoville scale, what is the hottest chemical?",
+      "correct_answer": "Resiniferatoxin",
+      "incorrect_answers": [
+        "Capsaicin",
+        "Dihydrocapsaicin",
+        "Tinyatoxin"
+      ]
+    },
+    {
+      "id": 100,
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How old is the universe?",
+      "correct_answer": "13.8 Billion Years",
+      "incorrect_answers": [
+        "4.5 Billion Years",
+        "7.9 Billion Years",
+        "16.2 Billion Years"
+      ]
+    },
+    {
+      "id": 101,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is not the name of a 'Bond Girl'? ",
+      "correct_answer": "Vanessa Kensington",
+      "incorrect_answers": [
+        "Pam Bouvier",
+        "Mary Goodnight",
+        "Wai Lin"
+      ]
+    },
+    {
+      "id": 102,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who starred as Bruce Wayne and Batman in Tim Burton's 1989 movie 'Batman'?",
+      "correct_answer": "Michael Keaton",
+      "incorrect_answers": [
+        "George Clooney",
+        "Val Kilmer",
+        "Adam West"
+      ]
+    },
+    {
+      "id": 103,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who directed 'E.T. the Extra-Terrestrial' (1982)?",
+      "correct_answer": "Steven Spielberg",
+      "incorrect_answers": [
+        "Stanley Kubrick",
+        "James Cameron",
+        "Tim Burton"
+      ]
+    },
+    {
+      "id": 104,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which animated movie was first to feature a celebrity as a voice actor?",
+      "correct_answer": "Aladdin",
+      "incorrect_answers": [
+        "Toy Story",
+        "James and the Giant Peach",
+        "The Hunchback of Notre Dame"
+      ]
+    },
+    {
+      "id": 105,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When was the movie 'Con Air' released?",
+      "correct_answer": "1997",
+      "incorrect_answers": [
+        "1985",
+        "1999",
+        "1990"
+      ]
+    },
+    {
+      "id": 106,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the film 'Interstellar', how long did they spend on Miller's planet?",
+      "correct_answer": "23 years, 4 months, and 8 days",
+      "incorrect_answers": [
+        "15 years, 2 months, and 15 days",
+        "10 months and 6 days",
+        "26 years, 4 months, and 10 days"
+      ]
+    },
+    {
+      "id": 107,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the 1976 film 'Taxi Driver', how many guns did Travis buy from the salesman?",
+      "correct_answer": "4",
+      "incorrect_answers": [
+        "2",
+        "6",
+        "1"
+      ]
+    },
+    {
+      "id": 108,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the 1984 movie 'The Terminator', what model number is the Terminator portrayed by Arnold Schwarzenegger?",
+      "correct_answer": "T-800",
+      "incorrect_answers": [
+        "I-950",
+        "T-888",
+        "T-1000"
+      ]
+    },
+    {
+      "id": 109,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was Dorothy's surname in 'The Wizard Of Oz'?",
+      "correct_answer": "Gale",
+      "incorrect_answers": [
+        "Perkins",
+        "Day",
+        "Parker"
+      ]
+    },
+    {
+      "id": 110,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the dog that played Toto in the 1939 film 'The Wizard of Oz'?",
+      "correct_answer": "Terry",
+      "incorrect_answers": [
+        "Tommy",
+        "Teddy",
+        "Toto"
+      ]
+    },
+    {
+      "id": 111,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the Artificial Intelligence system in the 1983 film, 'WarGames'?",
+      "correct_answer": "War Operation Plan Response",
+      "incorrect_answers": [
+        "Self Evolving Thought Helix",
+        "Master Control Program",
+        "West Campus Analog Computer"
+      ]
+    },
+    {
+      "id": 112,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What did the first moving picture depict?",
+      "correct_answer": "A galloping horse",
+      "incorrect_answers": [
+        "A woman in a dress",
+        "A man walking",
+        "A crackling fire"
+      ]
+    },
+    {
+      "id": 113,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In 2012, which movie won every category in the 32nd 'Golden Raspberry Awards'?",
+      "correct_answer": "Jack and Jill",
+      "incorrect_answers": [
+        "The Girl with the Dragon Tattoo",
+        "Thor",
+        "The King's Speech"
+      ]
+    },
+    {
+      "id": 114,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the villian in the 2015 Russian-American Sci-Fi Movie 'Hardcore Henry'?",
+      "correct_answer": "Akan",
+      "incorrect_answers": [
+        "Estelle",
+        "Jimmy",
+        "Henry"
+      ]
+    },
+    {
+      "id": 115,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who played Baron Victor Frankestein in the 1957 Hammer horror film 'The Curse of Frankenstein'?",
+      "correct_answer": "Peter Cushing",
+      "incorrect_answers": [
+        "Boris Karloff",
+        "Vincent Price",
+        "Lon Chaney Jr."
+      ]
+    },
+    {
+      "id": 116,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?",
+      "correct_answer": "Jackie Earle Haley",
+      "incorrect_answers": [
+        "Tyler Mane",
+        "Derek Mears",
+        "Gunnar Hansen"
+      ]
+    },
+    {
+      "id": 117,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which one of these films are shot entirely in one-take?",
+      "correct_answer": "Russian Ark",
+      "incorrect_answers": [
+        "Good Will Hunting",
+        "Birdman",
+        "Schindler's List"
+      ]
+    },
+    {
+      "id": 118,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the movie 'Scream' who is Ghost Face?",
+      "correct_answer": "Billy Loomis and Stu Macher",
+      "incorrect_answers": [
+        "Dewey Riley",
+        "Sidney Prescott",
+        "Archie Prescott and Philip Marv"
+      ]
+    },
+    {
+      "id": 119,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The 2002 film '28 Days Later' is mainly set in which European country?",
+      "correct_answer": "United Kingdom",
+      "incorrect_answers": [
+        "France",
+        "Italy",
+        "Germany"
+      ]
+    },
+    {
+      "id": 120,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the movie 'Spaceballs', what are the Spaceballs attempting to steal from Planet Druidia?",
+      "correct_answer": "Air",
+      "incorrect_answers": [
+        "The Schwartz",
+        "Princess Lonestar",
+        "Meatballs"
+      ]
+    },
+    {
+      "id": 121,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?",
+      "correct_answer": "October 21, 2015",
+      "incorrect_answers": [
+        "August 28, 2015",
+        "July 20, 2015",
+        "January 25, 2015"
+      ]
+    },
+    {
+      "id": 122,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the first monster to appear alongside Godzilla?",
+      "correct_answer": "Anguirus",
+      "incorrect_answers": [
+        "King Kong",
+        "Mothra",
+        "King Ghidora"
+      ]
+    },
+    {
+      "id": 123,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What year did the James Cameron film 'Titanic' come out in theaters?",
+      "correct_answer": "1997",
+      "incorrect_answers": [
+        "1996",
+        "1998",
+        "1999"
+      ]
+    },
+    {
+      "id": 124,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the movie Gremlins, after what time of day should you not feed Mogwai?",
+      "correct_answer": "Midnight",
+      "incorrect_answers": [
+        "Evening",
+        "Morning",
+        "Afternoon"
+      ]
+    },
+    {
+      "id": 125,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When does 'Rogue One: A Star Wars Story' take place chronologically in the series?",
+      "correct_answer": "Between Episode 3 and 4",
+      "incorrect_answers": [
+        "After Episode 6",
+        "Before Episode 1",
+        "Between Episode 4 and 5"
+      ]
+    },
+    {
+      "id": 126,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?",
+      "correct_answer": "Atreyu",
+      "incorrect_answers": [
+        "Atrayu",
+        "Atraiyu",
+        "Atraeyu"
+      ]
+    },
+    {
+      "id": 127,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Mark Wahlberg played the titular character of which 2008 video-game adaptation?",
+      "correct_answer": "Max Payne",
+      "incorrect_answers": [
+        "Alan Wake",
+        "Hitman",
+        "God Of War"
+      ]
+    },
+    {
+      "id": 128,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the island that 'Jurassic Park' is built on?",
+      "correct_answer": "Isla Nublar",
+      "incorrect_answers": [
+        "Isla Sorna",
+        "Isla Muerta",
+        "Isla Pena"
+      ]
+    },
+    {
+      "id": 129,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the 'Jurassic Park' universe, what is the name of the island that contains InGen's Site B?",
+      "correct_answer": "Isla Sorna",
+      "incorrect_answers": [
+        "Isla Nublar",
+        "Isla Pena",
+        "Isla Muerta"
+      ]
+    },
+    {
+      "id": 130,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In what year does Jurassic World open in the 'Jurassic Park' universe?",
+      "correct_answer": "2005",
+      "incorrect_answers": [
+        "2007",
+        "2015",
+        "2020"
+      ]
+    },
+    {
+      "id": 131,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which actress portrayed Dr. Grace Augustine in the James Cameron movie 'Avatar'?",
+      "correct_answer": "Sigourney Weaver",
+      "incorrect_answers": [
+        "Jessica Chastain",
+        "Melissa Beckett",
+        "Alyssa Monroe "
+      ]
+    },
+    {
+      "id": 132,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What Queen song plays during the final fight scene of the film 'Hardcore Henry'?",
+      "correct_answer": "Don't Stop Me Now",
+      "incorrect_answers": [
+        "Brighton Rock",
+        "Another Bites the Dust",
+        "We Will Rock You"
+      ]
+    },
+    {
+      "id": 133,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the species of the 'Predator' in the 1987 movie 'Predator'?",
+      "correct_answer": "Yautja",
+      "incorrect_answers": [
+        "Xenomorph",
+        "Praetorian",
+        "Phocrex"
+      ]
+    },
+    {
+      "id": 134,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",
+      "correct_answer": "Dave",
+      "incorrect_answers": [
+        "John",
+        "Will",
+        "Carl"
+      ]
+    },
+    {
+      "id": 135,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which town is the setting for the Disney movie The Love Bug (1968)?",
+      "correct_answer": "San Francisco",
+      "incorrect_answers": [
+        "Los Angeles",
+        "Sacramento",
+        "San Jose"
+      ]
+    },
+    {
+      "id": 136,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What character in the Winnie the Pooh films was added by Disney and does not appear in the original books?",
+      "correct_answer": "Gopher",
+      "incorrect_answers": [
+        "Tigger",
+        "Heffalumps",
+        "Rabbit"
+      ]
+    },
+    {
+      "id": 137,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In Big Hero 6, what were Baymax's motions modeled after?",
+      "correct_answer": "Baby penguins",
+      "incorrect_answers": [
+        "Baby monkeys",
+        "Baby ostriches",
+        "Baby bears"
+      ]
+    },
+    {
+      "id": 138,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In Big Hero 6, what fictional city is the Big Hero 6 from?",
+      "correct_answer": "San Fransokyo",
+      "incorrect_answers": [
+        "San Tokyo",
+        "Tokysisco",
+        "Sankyo"
+      ]
+    },
+    {
+      "id": 139,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the Friday The 13th series, what is Jason's mother's first name?",
+      "correct_answer": "Pamela",
+      "incorrect_answers": [
+        "Mary",
+        "Christine",
+        "Angeline"
+      ]
+    },
+    {
+      "id": 140,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the Friday The 13th series, what year did Jason drown in?",
+      "correct_answer": "1957",
+      "incorrect_answers": [
+        "1955",
+        "1953",
+        "1959"
+      ]
+    },
+    {
+      "id": 141,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which director directed the movie 'Pan's Labyrinth'?",
+      "correct_answer": "Guillermo Del Toro",
+      "incorrect_answers": [
+        "Alfonso Cuarón",
+        "Alejandro González Iñárritu",
+        " Alejandro Jodorowsky"
+      ]
+    },
+    {
+      "id": 142,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What film did James Cameron's Avatar dethrone as the highest-grossing film ever?",
+      "correct_answer": "Titanic",
+      "incorrect_answers": [
+        "Star Wars",
+        "Gone with the Wind",
+        "Jaws"
+      ]
+    },
+    {
+      "id": 143,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these Movies was NOT released in 1996?",
+      "correct_answer": "Gladiator",
+      "incorrect_answers": [
+        "Independence Day",
+        "The Rock",
+        "Mission: Impossible"
+      ]
+    },
+    {
+      "id": 144,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which 1994 film did Roger Ebert famously despise, saying 'I hated hated hated hated hated this movie'.",
+      "correct_answer": "North",
+      "incorrect_answers": [
+        "3 Ninjas Kick Back",
+        "The Santa Clause",
+        "Richie Rich"
+      ]
+    },
+    {
+      "id": 145,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who performed the opening theme song for the James Bond 007 movie 'Goldfinger'?",
+      "correct_answer": "Shirley Basey",
+      "incorrect_answers": [
+        "Tom Jones",
+        "John Barry",
+        "Sheena Easton"
+      ]
+    },
+    {
+      "id": 146,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which musical artist had a prominent role in the 2017 film 'Kingsman: The Golden Circle'?",
+      "correct_answer": "Elton John",
+      "incorrect_answers": [
+        "Lady Gaga",
+        "Rihanna",
+        "Justin Bieber"
+      ]
+    },
+    {
+      "id": 147,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The film Mad Max: Fury Road features the Dies Irae  from which composer's requiem?",
+      "correct_answer": "Verdi",
+      "incorrect_answers": [
+        "Mozart",
+        "Berlioz",
+        "Brahms"
+      ]
+    },
+    {
+      "id": 148,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which actor plays the role of the main antagonist in the 2011 movie 'Tower Heist?'",
+      "correct_answer": "Alan Alda",
+      "incorrect_answers": [
+        "Eddie Murphy",
+        "Alec Baldwin",
+        "Kevin Nealon"
+      ]
+    },
+    {
+      "id": 149,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these films is NOT set in Los Angeles?",
+      "correct_answer": "RoboCop",
+      "incorrect_answers": [
+        "Blade Runner",
+        "The Terminator",
+        "Predator 2"
+      ]
+    },
+    {
+      "id": 150,
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In Star Wars, what's the name of the new Government created after the defeat of the Galactic Empire?",
+      "correct_answer": "The New Republic",
+      "incorrect_answers": [
+        "The Rebel Alliance",
+        "The Crimson Dawn",
+        "The First Order"
+      ]
+    },
+    {
+      "id": 151,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Electronic music producer Kygo's popularity skyrocketed after a certain remix. Which song did he remix?",
+      "correct_answer": "Ed Sheeran - I See Fire",
+      "incorrect_answers": [
+        "Marvin Gaye - Sexual Healing",
+        "Coldplay - Midnight",
+        "a-ha - Take On Me"
+      ]
+    },
+    {
+      "id": 152,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which river flows through the Scottish city of Glasgow?",
+      "correct_answer": "Clyde",
+      "incorrect_answers": [
+        "Tay",
+        "Dee",
+        "Tweed"
+      ]
+    },
+    {
+      "id": 153,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A doctor with a PhD is a doctor of what?",
+      "correct_answer": "Philosophy",
+      "incorrect_answers": [
+        "Psychology",
+        "Phrenology",
+        "Physical Therapy"
+      ]
+    },
+    {
+      "id": 154,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How would one say goodbye in Spanish?",
+      "correct_answer": "Adiós",
+      "incorrect_answers": [
+        " Hola",
+        "Au Revoir",
+        "Salir"
+      ]
+    },
+    {
+      "id": 155,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the largest organ of the human body?",
+      "correct_answer": "Skin",
+      "incorrect_answers": [
+        "Heart",
+        "large Intestine",
+        "Liver"
+      ]
+    },
+    {
+      "id": 156,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which sign of the zodiac is represented by the Crab?",
+      "correct_answer": "Cancer",
+      "incorrect_answers": [
+        "Libra",
+        "Virgo",
+        "Sagittarius"
+      ]
+    },
+    {
+      "id": 157,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which language is NOT Indo-European?",
+      "correct_answer": "Hungarian",
+      "incorrect_answers": [
+        "Russian",
+        "Greek",
+        "Latvian"
+      ]
+    },
+    {
+      "id": 158,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The words 'bungalow' and 'shampoo' originate from the languages of which country?",
+      "correct_answer": "India",
+      "incorrect_answers": [
+        "Papua New Guinea",
+        "Ethiopia",
+        "China"
+      ]
+    },
+    {
+      "id": 159,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "When was 'YouTube' founded?",
+      "correct_answer": "February 14, 2005",
+      "incorrect_answers": [
+        "May 22, 2004",
+        "September 12, 2005",
+        "July 19, 2009"
+      ]
+    },
+    {
+      "id": 160,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many colors are there in a rainbow?",
+      "correct_answer": "7",
+      "incorrect_answers": [
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    {
+      "id": 161,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What year was Queen Elizabeth II born?",
+      "correct_answer": "1926",
+      "incorrect_answers": [
+        "1923",
+        "1929",
+        "1930"
+      ]
+    },
+    {
+      "id": 162,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following is not another name for the eggplant?",
+      "correct_answer": "Potimarron",
+      "incorrect_answers": [
+        "Brinjal",
+        "Guinea Squash",
+        "Melongene"
+      ]
+    },
+    {
+      "id": 163,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following chemicals are found in eggplant seeds?",
+      "correct_answer": "Nicotine",
+      "incorrect_answers": [
+        "Mescaline",
+        "Cyanide",
+        "Psilocybin"
+      ]
+    },
+    {
+      "id": 164,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who is a co-founder of music streaming service Spotify?",
+      "correct_answer": "Daniel Ek",
+      "incorrect_answers": [
+        "Sean Parker",
+        "Felix Miller",
+        "Michael Breidenbruecker"
+      ]
+    },
+    {
+      "id": 165,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Sciophobia is the fear of what?",
+      "correct_answer": "Shadows",
+      "incorrect_answers": [
+        "Eating",
+        "Bright lights",
+        "Transportation"
+      ]
+    },
+    {
+      "id": 166,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What alcoholic drink is mainly made from juniper berries?",
+      "correct_answer": "Gin",
+      "incorrect_answers": [
+        "Vodka",
+        "Rum",
+        "Tequila"
+      ]
+    },
+    {
+      "id": 167,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?",
+      "correct_answer": "Fiat",
+      "incorrect_answers": [
+        "Maserati",
+        "Alfa Romeo",
+        "Ferrari"
+      ]
+    },
+    {
+      "id": 168,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the French word for 'hat'?",
+      "correct_answer": "Chapeau",
+      "incorrect_answers": [
+        "Bonnet",
+        " Écharpe",
+        " Casque"
+      ]
+    },
+    {
+      "id": 169,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the romanized Korean word for 'heart'?",
+      "correct_answer": "Simjang",
+      "incorrect_answers": [
+        "Aejeong",
+        "Jeongsin",
+        "Segseu"
+      ]
+    },
+    {
+      "id": 170,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the romanized Arabic word for 'moon'?",
+      "correct_answer": "Qamar",
+      "incorrect_answers": [
+        "Najma",
+        "Kawkab",
+        "Shams"
+      ]
+    },
+    {
+      "id": 171,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the Italian word for 'tomato'?",
+      "correct_answer": "Pomodoro",
+      "incorrect_answers": [
+        "Aglio",
+        "Cipolla",
+        "Peperoncino"
+      ]
+    },
+    {
+      "id": 172,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the popular animatronic singing fish prop, singing such hits such as 'Don't Worry, Be Happy'?",
+      "correct_answer": "Big Mouth Billy Bass",
+      "incorrect_answers": [
+        "Big Billy Bass",
+        "Singing Fish",
+        "Sardeen"
+      ]
+    },
+    {
+      "id": 173,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Disney's Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+      "correct_answer": "Harry",
+      "incorrect_answers": [
+        "Gus",
+        "Phineas",
+        "Ezra"
+      ]
+    },
+    {
+      "id": 174,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is a dead mall?",
+      "correct_answer": "A mall with high vacancy rates or low consumer foot traffic",
+      "incorrect_answers": [
+        "A mall with no stores",
+        "A mall that has been condemed",
+        "A mall after business hours"
+      ]
+    },
+    {
+      "id": 175,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of Poland in Polish?",
+      "correct_answer": "Polska",
+      "incorrect_answers": [
+        "Pupcia",
+        "Polszka",
+        "Póland"
+      ]
+    },
+    {
+      "id": 176,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+      "correct_answer": "Center Parcs",
+      "incorrect_answers": [
+        "Yelloh Village",
+        "Keycamp",
+        "Villa Plus"
+      ]
+    },
+    {
+      "id": 177,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which restaurant's mascot is a clown?",
+      "correct_answer": "McDonald's",
+      "incorrect_answers": [
+        "Whataburger",
+        "Burger King",
+        "Sonic"
+      ]
+    },
+    {
+      "id": 178,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was Mountain Dew's original slogan?",
+      "correct_answer": "Yahoo! Mountain Dew... It'll tickle your innards!",
+      "incorrect_answers": [
+        "Give Me A Dew",
+        "Do The Dew",
+        "Get' that barefoot feelin' drinkin' Mountain Dew"
+      ]
+    },
+    {
+      "id": 179,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What year was the RoboSapien toy robot released?",
+      "correct_answer": "2004",
+      "incorrect_answers": [
+        "2000",
+        "2001",
+        "2006"
+      ]
+    },
+    {
+      "id": 180,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Where does water from Poland Spring water bottles come from?",
+      "correct_answer": "Maine, United States",
+      "incorrect_answers": [
+        "Hesse, Germany",
+        "Masovia, Poland",
+        "Bavaria, Poland"
+      ]
+    },
+    {
+      "id": 181,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?",
+      "correct_answer": "28%",
+      "incorrect_answers": [
+        "13%",
+        "20%",
+        "7%"
+      ]
+    },
+    {
+      "id": 182,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?",
+      "correct_answer": "Hewlett-Packard",
+      "incorrect_answers": [
+        "Toshiba",
+        "Asus",
+        "Dell"
+      ]
+    },
+    {
+      "id": 183,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is Tasmania?",
+      "correct_answer": "An Australian State",
+      "incorrect_answers": [
+        "A flavor of Ben and Jerry's ice-cream",
+        "A Psychological Disorder",
+        "The Name of a Warner Brothers Cartoon Character"
+      ]
+    },
+    {
+      "id": 184,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "If someone said 'you are olid', what would they mean?",
+      "correct_answer": "You smell extremely unpleasant.",
+      "incorrect_answers": [
+        "You are out of shape/weak.",
+        "Your appearance is repulsive.",
+        "You are incomprehensible/an idiot."
+      ]
+    },
+    {
+      "id": 185,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+      "correct_answer": "Thomas Jefferson",
+      "incorrect_answers": [
+        "Martin Van Buren",
+        "Ulysses Grant",
+        "John Quincy Adams"
+      ]
+    },
+    {
+      "id": 186,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Located in Chile, El Teniente is the world's largest underground mine for what metal?",
+      "correct_answer": "Copper",
+      "incorrect_answers": [
+        "Iron",
+        "Nickel",
+        "Silver"
+      ]
+    },
+    {
+      "id": 187,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The Flag of the European Union has how many stars on it?",
+      "correct_answer": "12",
+      "incorrect_answers": [
+        "10",
+        "14",
+        "16"
+      ]
+    },
+    {
+      "id": 188,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many furlongs are there in a mile?",
+      "correct_answer": "Eight",
+      "incorrect_answers": [
+        "Two",
+        "Four",
+        "Six"
+      ]
+    },
+    {
+      "id": 189,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the closest planet to our solar system's sun?",
+      "correct_answer": "Mercury",
+      "incorrect_answers": [
+        "Mars",
+        "Jupiter",
+        "Earth"
+      ]
+    },
+    {
+      "id": 190,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Earth is located in which galaxy?",
+      "correct_answer": "The Milky Way Galaxy",
+      "incorrect_answers": [
+        "The Mars Galaxy",
+        "The Galaxy Note",
+        "The Black Hole"
+      ]
+    },
+    {
+      "id": 191,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What are Panama hats made out of?",
+      "correct_answer": "Straw",
+      "incorrect_answers": [
+        "Silk",
+        "Hemp",
+        "Flax"
+      ]
+    },
+    {
+      "id": 192,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the full title of the Prime Minister of the UK?",
+      "correct_answer": "First Lord of the Treasury",
+      "incorrect_answers": [
+        "Duke of Cambridge",
+        "Her Majesty's Loyal Opposition",
+        "Manager of the Crown Estate"
+      ]
+    },
+    {
+      "id": 193,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Foie gras is a French delicacy typically made from what part of a duck or goose?",
+      "correct_answer": "Liver",
+      "incorrect_answers": [
+        "Heart",
+        "Stomach",
+        "Intestines"
+      ]
+    },
+    {
+      "id": 194,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is not the host of a program on NPR?",
+      "correct_answer": "Ben Shapiro",
+      "incorrect_answers": [
+        "Terry Gross",
+        "Ira Glass",
+        "Peter Sagal"
+      ]
+    },
+    {
+      "id": 195,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of the following is not an Ivy League University?",
+      "correct_answer": "Stanford",
+      "incorrect_answers": [
+        "University of Pennsylvania",
+        "Harvard",
+        "Princeton"
+      ]
+    },
+    {
+      "id": 196,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which logical fallacy means to attack the character of your opponent rather than their arguments?",
+      "correct_answer": "Ad hominem",
+      "incorrect_answers": [
+        "Post hoc ergo propter hoc",
+        "Tu quoque",
+        "Argumentum ad populum"
+      ]
+    },
+    {
+      "id": 197,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Frank Lloyd Wright was the architect behind what famous building?",
+      "correct_answer": "The Guggenheim",
+      "incorrect_answers": [
+        "Villa Savoye",
+        "Sydney Opera House",
+        "The Space Needle"
+      ]
+    },
+    {
+      "id": 198,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What kind of aircraft was developed by Igor Sikorsky in the United States in 1942?",
+      "correct_answer": "Helicopter",
+      "incorrect_answers": [
+        "Stealth Blimp",
+        "Jet",
+        "Space Capsule"
+      ]
+    },
+    {
+      "id": 199,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who invented the first ever chocolate bar, in 1847?",
+      "correct_answer": "Joseph Fry",
+      "incorrect_answers": [
+        "Andrew Johnson",
+        "John Cadbury",
+        "John Tyler"
+      ]
+    },
+    {
+      "id": 200,
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Waluigi's first appearance was in what game?",
+      "correct_answer": "Mario Tennis 64 (N64)",
+      "incorrect_answers": [
+        "Wario Land: Super Mario Land 3",
+        "Mario Party (N64)",
+        "Super Smash Bros. Ultimate"
+      ]
+    },
+    {
+      "id": 201,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "At which bridge does the annual Oxford and Cambridge boat race start?",
+      "correct_answer": "Putney",
+      "incorrect_answers": [
+        "Hammersmith",
+        "Vauxhall ",
+        "Battersea"
+      ]
+    },
+    {
+      "id": 202,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+      "correct_answer": "Nine",
+      "incorrect_answers": [
+        "Ten",
+        "Seven",
+        "Eight"
+      ]
+    },
+    {
+      "id": 203,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?",
+      "correct_answer": "Jordan",
+      "incorrect_answers": [
+        "Benetton",
+        "Ferrari",
+        "Mercedes"
+      ]
+    },
+    {
+      "id": 204,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What tool lends it's name to a last-stone advantage in an end in Curling?",
+      "correct_answer": "Hammer",
+      "incorrect_answers": [
+        "Wrench",
+        "Drill",
+        "Screwdriver"
+      ]
+    },
+    {
+      "id": 205,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In golf, what name is given to a hole score of two under par?",
+      "correct_answer": "Eagle",
+      "incorrect_answers": [
+        "Birdie",
+        "Bogey",
+        "Albatross"
+      ]
+    },
+    {
+      "id": 206,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the British professional wrestler Shirley Crabtree better known as?",
+      "correct_answer": "Big Daddy",
+      "incorrect_answers": [
+        "Giant Haystacks",
+        "Kendo Nagasaki",
+        "Masambula"
+      ]
+    },
+    {
+      "id": 207,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the nickname of Northampton town's rugby union club?",
+      "correct_answer": "Saints",
+      "incorrect_answers": [
+        "Harlequins",
+        "Saracens",
+        "Wasps"
+      ]
+    },
+    {
+      "id": 208,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which English football club has the nickname 'The Foxes'?",
+      "correct_answer": "Leicester City",
+      "incorrect_answers": [
+        "Northampton Town",
+        "Bradford City",
+        "West Bromwich Albion"
+      ]
+    },
+    {
+      "id": 209,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which team won the 2015-16 English Premier League?",
+      "correct_answer": "Leicester City",
+      "incorrect_answers": [
+        "Liverpool",
+        "Cheslea",
+        "Manchester United"
+      ]
+    },
+    {
+      "id": 210,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A stimpmeter measures the speed of a ball over what surface?",
+      "correct_answer": "Golf Putting Green",
+      "incorrect_answers": [
+        " Football Pitch",
+        "Cricket Outfield",
+        "Pinball Table"
+      ]
+    },
+    {
+      "id": 211,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In baseball, how many fouls are an out?",
+      "correct_answer": "0",
+      "incorrect_answers": [
+        "5",
+        "3",
+        "2"
+      ]
+    },
+    {
+      "id": 212,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The F1 season of 1994 is remembered for what tragic event?",
+      "correct_answer": "Death of Ayrton Senna (San Marino)",
+      "incorrect_answers": [
+        "The Showdown (Australia)",
+        "Verstappen on Fire (Germany)",
+        "Schumacher's Ban (Britain)"
+      ]
+    },
+    {
+      "id": 213,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The Rio 2016 Summer Olympics held it's closing ceremony on what date?",
+      "correct_answer": "August 21",
+      "incorrect_answers": [
+        "August 23",
+        "August 19",
+        "August 17"
+      ]
+    },
+    {
+      "id": 214,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which country has hosted the 2018 FIFA World Cup?",
+      "correct_answer": "Russia",
+      "incorrect_answers": [
+        "Germany",
+        "United States",
+        "Saudi Arabia"
+      ]
+    },
+    {
+      "id": 215,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which country is hosting the 2022 FIFA World Cup?",
+      "correct_answer": "Qatar",
+      "incorrect_answers": [
+        "Uganda",
+        "Vietnam",
+        "Bolivia"
+      ]
+    },
+    {
+      "id": 216,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+      "correct_answer": "7 - 1",
+      "incorrect_answers": [
+        "0 - 1",
+        "3 - 4",
+        "16 - 0"
+      ]
+    },
+    {
+      "id": 217,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which team was the 2015-2016 NBA Champions?",
+      "correct_answer": "Cleveland Cavaliers",
+      "incorrect_answers": [
+        "Golden State Warriors",
+        "Toronto Raptors",
+        "Oklahoma City Thunders"
+      ]
+    },
+    {
+      "id": 218,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which team was the 2014-2015 NBA Champions?",
+      "correct_answer": "Golden State Warriors",
+      "incorrect_answers": [
+        "Cleveland Cavaliers",
+        "Houston Rockets",
+        "Atlanta Hawks"
+      ]
+    },
+    {
+      "id": 219,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Where was the Games of the XXII Olympiad held?",
+      "correct_answer": "Moscow",
+      "incorrect_answers": [
+        "Barcelona",
+        "Tokyo",
+        "Los Angeles"
+      ]
+    },
+    {
+      "id": 220,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Josh Mansour is part of what NRL team?",
+      "correct_answer": "Penrith Panthers",
+      "incorrect_answers": [
+        "Melbourne Storm",
+        "Sydney Roosters",
+        "North Queensland Cowboys"
+      ]
+    },
+    {
+      "id": 221,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+      "correct_answer": "Mazda",
+      "incorrect_answers": [
+        "Toyota",
+        "Subaru",
+        "Nissan"
+      ]
+    },
+    {
+      "id": 222,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which Italian footballer told Neuer where he's putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?",
+      "correct_answer": "Pelle",
+      "incorrect_answers": [
+        "Insigne",
+        "Barzagli",
+        "Giaccherini"
+      ]
+    },
+    {
+      "id": 223,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which female player won the gold medal of table tennis singles in 2016 Olympics Games?",
+      "correct_answer": "DING Ning (China)",
+      "incorrect_answers": [
+        "LI Xiaoxia (China)",
+        "Ai FUKUHARA (Japan)",
+        "Song KIM (North Korea)"
+      ]
+    },
+    {
+      "id": 224,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which soccer team won the Copa América Centenario 2016?",
+      "correct_answer": "Chile",
+      "incorrect_answers": [
+        "Argentina",
+        "Brazil",
+        "Colombia"
+      ]
+    },
+    {
+      "id": 225,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which team won 2014 FIFA World Cup in Brazil?",
+      "correct_answer": "Germany",
+      "incorrect_answers": [
+        "Argentina",
+        "Brazil",
+        "Netherlands"
+      ]
+    },
+    {
+      "id": 226,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many points did LeBron James score in his first NBA game?",
+      "correct_answer": "25",
+      "incorrect_answers": [
+        "19",
+        "69",
+        "41"
+      ]
+    },
+    {
+      "id": 227,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who won the 2016 Formula 1 World Driver's Championship?",
+      "correct_answer": "Nico Rosberg",
+      "incorrect_answers": [
+        "Lewis Hamilton",
+        "Max Verstappen",
+        "Kimi Raikkonen"
+      ]
+    },
+    {
+      "id": 228,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the oldest team in the NFL?",
+      "correct_answer": "Arizona Cardinals",
+      "incorrect_answers": [
+        "Chicago Bears",
+        "Green Bay Packers",
+        "New York Giants"
+      ]
+    },
+    {
+      "id": 229,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the oldest team in Major League Baseball?",
+      "correct_answer": "Atlanta Braves",
+      "incorrect_answers": [
+        "Chicago Cubs",
+        "Cincinnati Reds",
+        "St. Louis Cardinals"
+      ]
+    },
+    {
+      "id": 230,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Why was The Green Monster at Fenway Park was originally built?",
+      "correct_answer": "To prevent viewing games from outside the park.",
+      "incorrect_answers": [
+        "To make getting home runs harder.",
+        "To display advertisements.",
+        "To provide extra seating."
+      ]
+    },
+    {
+      "id": 231,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
+      "correct_answer": "American Football",
+      "incorrect_answers": [
+        "Wrestling",
+        "Archery",
+        "Horse-Racing"
+      ]
+    },
+    {
+      "id": 232,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When was the first official international game played?",
+      "correct_answer": "1872",
+      "incorrect_answers": [
+        "1880",
+        "1863",
+        "1865"
+      ]
+    },
+    {
+      "id": 233,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which boxer was banned for taking a bite out of Evander Holyfield's ear in 1997?",
+      "correct_answer": "Mike Tyson",
+      "incorrect_answers": [
+        "Roy Jones Jr.",
+        "Evander Holyfield",
+        "Lennox Lewis"
+      ]
+    },
+    {
+      "id": 234,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What team did England beat to win in the 1966 World Cup final?",
+      "correct_answer": "West Germany",
+      "incorrect_answers": [
+        "Soviet Union",
+        "Portugal",
+        "Brazil"
+      ]
+    },
+    {
+      "id": 235,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
+      "correct_answer": "Portugal",
+      "incorrect_answers": [
+        "West Germany",
+        "Soviet Union",
+        "Brazil"
+      ]
+    },
+    {
+      "id": 236,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many French Open's did Björn Borg win?",
+      "correct_answer": "6",
+      "incorrect_answers": [
+        "4",
+        "9",
+        "2"
+      ]
+    },
+    {
+      "id": 237,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?",
+      "correct_answer": "13",
+      "incorrect_answers": [
+        "11",
+        "20",
+        "22"
+      ]
+    },
+    {
+      "id": 238,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who won the premier league title in the 2015-2016 season following a fairy tale run?",
+      "correct_answer": "Leicester City",
+      "incorrect_answers": [
+        "Tottenham Hotspur",
+        "Watford",
+        "Stoke City"
+      ]
+    },
+    {
+      "id": 239,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who did Steven Gerrard win the Champions League with?",
+      "correct_answer": "Liverpool",
+      "incorrect_answers": [
+        "Real Madrid",
+        "Chelsea",
+        "Man City"
+      ]
+    },
+    {
+      "id": 240,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The Los Angeles Dodgers were originally from what U.S. city?",
+      "correct_answer": "Brooklyn",
+      "incorrect_answers": [
+        "Las Vegas",
+        "Boston",
+        "Seattle"
+      ]
+    },
+    {
+      "id": 241,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who was the topscorer for England national football team?",
+      "correct_answer": "Wayne Rooney",
+      "incorrect_answers": [
+        "David Beckham",
+        "Steven Gerrard",
+        "Michael Owen"
+      ]
+    },
+    {
+      "id": 242,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who won the 2017 Formula One World Drivers' Championship?",
+      "correct_answer": "Lewis Hamilton",
+      "incorrect_answers": [
+        "Sebastian Vettel",
+        "Nico Rosberg",
+        "Max Verstappen"
+      ]
+    },
+    {
+      "id": 243,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is Tiger Woods' all-time best career golf-score?",
+      "correct_answer": "61",
+      "incorrect_answers": [
+        "65",
+        "63",
+        "67"
+      ]
+    },
+    {
+      "id": 244,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Who won the UEFA Champions League in 2017?",
+      "correct_answer": "Real Madrid C.F.",
+      "incorrect_answers": [
+        "Atletico Madrid",
+        "AS Monaco FC",
+        "Juventus F.C."
+      ]
+    },
+    {
+      "id": 245,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the 2014 FIFA World Cup, what was the final score in the match Brazil - Germany?",
+      "correct_answer": "1-7",
+      "incorrect_answers": [
+        "1-5",
+        "1-6",
+        "2-6"
+      ]
+    },
+    {
+      "id": 246,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which two teams played in Super Bowl XLII?",
+      "correct_answer": "The New York Giants and The New England Patriots",
+      "incorrect_answers": [
+        "The Green Bay Packers and The Pittsburgh Steelers",
+        "The Philadelphia Eagles and The New England Patriots",
+        "The Seattle Seahawks and The Denver Broncos"
+      ]
+    },
+    {
+      "id": 247,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is 'The Sport of Kings'?",
+      "correct_answer": "Horse Racing",
+      "incorrect_answers": [
+        "Chess",
+        "Jousting",
+        "Fencing"
+      ]
+    },
+    {
+      "id": 248,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which NBA player has the most games played over the course of their career?",
+      "correct_answer": "Robert Parish",
+      "incorrect_answers": [
+        "Kareem Abdul-Jabbar",
+        "Kevin Garnett",
+        "Kobe Bryant"
+      ]
+    },
+    {
+      "id": 249,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these countries' national teams qualified for the 2018 FIFA World Cup in Russia?",
+      "correct_answer": "Tunisia",
+      "incorrect_answers": [
+        "United States of America",
+        "Italy",
+        "Netherlands"
+      ]
+    },
+    {
+      "id": 250,
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which English football team is nicknamed 'The Tigers'?",
+      "correct_answer": "Hull City",
+      "incorrect_answers": [
+        "Cardiff City",
+        "Bristol City",
+        "Manchester City"
+      ]
+    }
+  ]
 }
