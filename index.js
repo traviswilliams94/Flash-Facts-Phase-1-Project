@@ -11,18 +11,20 @@ function generateQuestion(questions) {
     
     // Randomly selecting a question
     const randomQuestionIndex = Math.floor(Math.random() * questions.length);
-    const question = questions[randomQuestionIndex];
+    currentQuestion = questions[randomQuestionIndex];
 
     // Display the question
-    document.querySelector('.displayquestion').textContent = question.question;
+    document.querySelector('.displayquestion').textContent = currentQuestion.question;
 
     // Shuffle the answers
-    const answers = [question.correct_answer, ...question.incorrect_answers];
+    const answers = [currentQuestion.correct_answer, ...currentQuestion.incorrect_answers];
     shuffleArray(answers);
 
     // Display the shuffled answers
     for (let i = 0; i < 4; i++) {
-        document.getElementById('option' + (i+1)).textContent = answers[i];
+        let button = document.getElementById('option' + (i+1));
+        button.textContent = answers[i];
+        button.onclick = checkAnswer;
     };
 }
 
@@ -44,6 +46,14 @@ function shuffleArray(array) {
 // Event listener for the "Next Question" button
 document.getElementById('nextquestion').addEventListener('click', generateQuestion);
 
+// Check answer function
+function checkAnswer(event) {
+  if (event.target.textContent === currentQuestion.correct_answer) {
+      alert("Correct!");
+  } else {
+      alert("Incorrect. Try again!");
+  }
+}
 
 let addQuestion = false;
 
