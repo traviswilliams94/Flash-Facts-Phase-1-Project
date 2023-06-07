@@ -32,7 +32,6 @@ function createNewQuestion(questionObj) {
     })
 
     .then(res => res.json())
-    .then(console.log(questionObj))
 };
 
 
