@@ -1,17 +1,38 @@
 // code here
 
+let allQuestions;
+let filteredQuestions;
+let currentQuestion;
+
 // Fetching the JSON data 
 
 fetch('http://localhost:3000/questions')
-    .then(res => res.json())
-    .then(questions => generateQuestion(questions)
-    );
+  .then(res => res.json())
+  .then(data => {
+    allQuestions = data;
+    filteredQuestions = [...allQuestions];
+    generateQuestion();
+  })
+
+  document.getElementById('categoryfilter').addEventListener('change', function() {
+    const selectedCategories = Array.from(this.selectedOptions).map(option => option.value);
+    filterQuestions(selectedCategories);
+    generateQuestion();
+});
+
+function filterQuestions(categories) {
+    if (categories.length === 0) {
+        filteredQuestions = [...allQuestions];
+    } else {
+        filteredQuestions = allQuestions.filter(question => categories.includes(question.category));
+    }
+}
 
 function generateQuestion(questions) {
     
     // Randomly selecting a question
-    const randomQuestionIndex = Math.floor(Math.random() * questions.length);
-    currentQuestion = questions[randomQuestionIndex];
+    const randomQuestionIndex = Math.floor(Math.random() * filteredQuestions.length);
+    currentQuestion = filteredQuestions[randomQuestionIndex];
 
     // Display the question
     document.querySelector('.displayquestion').textContent = currentQuestion.question;
@@ -50,7 +71,7 @@ function shuffleArray(array) {
 document.getElementById('nextquestion').addEventListener('click', ()  => {
   fetch('http://localhost:3000/questions')
   .then(res => res.json())
-  .then(questions => generateQuestion(questions))});
+  .then(() => generateQuestion())});
 
 // Check answer function
 function checkAnswer(event) {

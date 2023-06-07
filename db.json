@@ -3249,6 +3249,28 @@
         "Bristol City",
         "Manchester City"
       ]
+    },
+    {
+      "id": 251,
+      "category": "History",
+      "question": "What was the date of the D-Day invasion of Normandy?",
+      "correct_answer": "June 6, 1944",
+      "incorrect_answers": [
+        "November 5, 1942",
+        "September 7, 1943",
+        "December 25, 1944"
+      ]
+    },
+    {
+      "id": 252,
+      "category": "Sports",
+      "question": "Which driver was the 2022 Formula One champion?",
+      "correct_answer": "Max Verstappen",
+      "incorrect_answers": [
+        "Lewis Hamilton",
+        "Sergio Perez",
+        "Charles LeClerc"
+      ]
     }
   ]
 }
