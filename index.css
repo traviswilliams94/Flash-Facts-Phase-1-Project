@@ -54,7 +54,34 @@
     background: rgba(255, 0, 0, 0.288);
     border-radius: 10px; */
     
-  } 
+  }
+  
+#question-section {
+    text-align: center; 
+}
+
+#category-title {
+    font-size: 1.5em; 
+    margin-bottom: 10px; 
+    font-family: sans-serif, Arial; 
+    color: #333333;
+}
+
+#image-container {
+    border: 2px solid black; 
+    width: 270px; 
+    height: 160px; 
+    padding: 10px;
+    display: inline-block;
+}
+
+#category-image {
+    width: 250px;
+    height: 150px;
+    object-fit: cover;
+}
+
+
 
   #nextquestion {
     position:relative;
