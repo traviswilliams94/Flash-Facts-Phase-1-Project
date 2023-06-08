@@ -29,6 +29,15 @@ function filterQuestions(categories) {
     }
 }
 
+//Object containing URLs for each category image
+const categoryImages = {
+  "History": "https://upload.wikimedia.org/wikipedia/commons/7/74/Colosseo_2008.jpg",
+  "Science & Nature": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/800px-Albert_Einstein_Head.jpg",
+  "General Knowledge": "https://www.jeopardy.com/sites/default/files/styles/article_image_960_/public/2020-11/alex2.jpg?itok=d54PKuvw",
+  "Sports": "https://upload.wikimedia.org/wikipedia/commons/a/a5/039_men_at_work_UEFA_2009%2C_Rome.jpg",
+  "Entertainment: Film": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hollywood_Sign_%28Zuschnitt%29.jpg/1024px-Hollywood_Sign_%28Zuschnitt%29.jpg"
+};
+
 function generateQuestion(questions) {
     
     // Randomly selecting a question
@@ -37,6 +46,13 @@ function generateQuestion(questions) {
 
     // Display the question
     document.querySelector('.displayquestion').textContent = currentQuestion.question;
+
+    //Set the category image
+    const categoryImage = document.getElementById('category-image');
+    categoryImage.src = categoryImages[currentQuestion.category];
+    // Update the category title
+    document.getElementById('category-title').textContent = currentQuestion.category;
+
 
     // Shuffle the answers
     const answers = [currentQuestion.correct_answer, ...currentQuestion.incorrect_answers];
