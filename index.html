@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="index.css" />
     <script defer src="index.js"></script>
     <script defer src="post.js"></script>
+    <script defer src="filter.js"></script>
 </head>
 <body>
     <div class="pageheader">
@@ -86,7 +87,7 @@
         </form>
     </div>
     <div class="filter" id="filterelement">
-       
+
         <select class="filter" id="categoryfilter" style="width:250px" multiple>
             <option value="History">History</option>
             <option value="Science & Nature">Science & Nature</option>
@@ -95,21 +96,29 @@
             <option value="Entertainment: Film">Entertainment: Film</option>
         </select>
         <br />
-        <label  for="filtercategory">Filter Questions By Category. Choose One or Many with CMD-click.</label> 
+        <label  for="filtercategory">Filter Questions By Category.</label> 
+        <br />
+        <label  for="filtercategory">Choose One or Many with CMD-click.</label> 
     </div>
-
-    <div id="currentquestion">
-        <p class="displayquestion">Question PlaceHolder that is longer and will test how the text displays</p>
-    <br />
-        <button class="responsebutton" id="option1">Option 1</button>
-    <br />
-        <button class="responsebutton" id="option2">Option 2</button>
-    <br />
-        <button class="responsebutton" id="option3">Option 3</button>
-    <br />
-        <button class="responsebutton" id="option4">Option 4</button>
+    <div id="countercontainer">
+        <p class="counter" id="streak">Streak</p> 
+        <span class="counter" id="counter">0</span>
         
     </div>
+    
+        <div id="currentquestion">
+            <p class="displayquestion">Question PlaceHolder that is longer and will test how the text displays</p>
+        <br />
+            <button class="responsebutton" id="option1">Option 1</button>
+        <br />
+            <button class="responsebutton" id="option2">Option 2</button>
+        <br />
+            <button class="responsebutton" id="option3">Option 3</button>
+        <br />
+            <button class="responsebutton" id="option4">Option 4</button>
+            
+        </div>
+    
     <button class="pagebutton" id="nextquestion">Next Question</button>
     
 

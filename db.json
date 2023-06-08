@@ -3271,6 +3271,17 @@
         "Sergio Perez",
         "Charles LeClerc"
       ]
+    },
+    {
+      "id": 253,
+      "category": "General Knowledge",
+      "question": "Which is not a Pokemon that you can select as a starter in Gold/Silver/Crystal Version",
+      "correct_answer": "Mudkip",
+      "incorrect_answers": [
+        "Cyndaquil",
+        "Chikorita",
+        "Totodile"
+      ]
     }
   ]
 }

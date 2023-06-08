@@ -3,6 +3,7 @@
 let allQuestions;
 let filteredQuestions;
 let currentQuestion;
+let counter = document.getElementById('counter')
 
 // Fetching the JSON data 
 
@@ -79,10 +80,12 @@ function checkAnswer(event) {
       alert("Correct!");
       event.target.style.background = 'green';
       event.target.style.borderColor = 'green';
+      counter.textContent++;
   } else {
       alert("Incorrect. Try again!");
       event.target.style.background = 'red';
       event.target.style.borderColor = 'red';
+      counter.textContent = '0'
       // fetchMe(); an option if we want an incorrect response to auto load another question
   }
 }

@@ -29,32 +29,6 @@
     margin-bottom: 10px;
   }
 
-  #currentquestion {
-    
-      width: 40rem;
-      height: 30rem;
-      background-color: rgba(255, 0, 0, 0.51);
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      /* justify-content: space-around; */
-      border-radius: 30px;
-      margin:auto;
-      margin-top: 15px;
-  
-    /* position: absolute;
-    width: 600px;
-    height: 400px;
-    z-index: 15;
-    top: 65%;
-    left: 50%;
-    margin: -100px 0 0 -300px;
-    display: flex;
-    justify-content: center;
-    background: rgba(255, 0, 0, 0.288);
-    border-radius: 10px; */
-    
-  } 
 
   #nextquestion {
     position:relative;
@@ -118,3 +92,47 @@
     margin-top: 10px;
     margin-bottom: 10px;
   }
+
+  .filterbutton {
+    width: 150px;
+    margin-bottom: 10px;
+  }
+
+  #counter {
+    font-size: 72px;
+    font-family: monospace;
+    color: blue;
+    
+  }
+
+  #streak {
+    font-size: 48px;
+    font-family: monospace;
+    text-decoration: underline;
+    margin-bottom: 25px;
+    margin-top: -1px;
+  }
+
+  #countercontainer {
+    border: 5px solid black;
+    width: 250px;
+    height: 200px;
+    text-align: center;
+    margin: auto;
+    float: right;
+    
+  }
+
+  #currentquestion {
+    
+    width: 40rem;
+    height: 30rem;
+    background-color: rgba(255, 0, 0, 0.51);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 30px;
+    margin: auto;
+    /* margin-top: 15px; */
+  
+} 
